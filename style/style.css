@@ -1,0 +1,441 @@
+body{
+    padding:0;margin:0;
+    height:100%;
+    position: relative;
+}
+
+h2{
+    text-align: center;
+}
+
+.loading{
+    width:50px;
+    height:50px;
+}
+
+#boxError{
+    color:red;
+}
+.hover{
+    cursor:pointer;
+}
+
+.ico{
+    width:20px;
+    height:20px;
+    padding:0;
+    margin:2px;
+    vertical-align: middle;
+}
+
+.inline{
+    display: inline-block;
+}
+
+form .inline {
+    text-align: right;
+    margin:0 20px;
+}
+td.td-delete:hover,td.td-edit:hover{
+    -moz-box-shadow: inset 0px 0px 5px 3px #656565;
+    -webkit-box-shadow: inset 0px 0px 5px 3px #656565;
+    -o-box-shadow: inset 0px 0px 5px 3px #656565;
+    box-shadow: inset 0px 0px 5px 3px #656565;
+    filter:progid:DXImageTransform.Microsoft.Shadow(color=#656565, Direction=NaN, Strength=5);
+}
+
+.margin-inline{
+    margin:0 10px;
+}
+#header_right p{
+    margin: 0;
+
+}
+
+#header_right img{
+    width:150px;
+    padding: 0;
+    margin:0;
+    vertical-align: middle;
+}
+
+#header_right img:hover{
+    -moz-box-shadow: 0 0 25px 2px #3531ff;
+    -webkit-box-shadow: 0 0 25px 2px #3531ff;
+    -o-box-shadow: 0 0 25px 2px #3531ff;
+    box-shadow: 0 0 25px 2px #3531ff;
+    filter:progid:DXImageTransform.Microsoft.Shadow(color=#3531ff, Direction=NaN, Strength=25);
+    -moz-border-radius: 100%;
+    -webkit-border-radius: 100%;
+    border-radius: 100%;
+}
+/* ---- sub nav ---- */
+
+.inputNav{
+    position:relative;
+    height:23px;
+}
+.subNav{
+    position:absolute;
+    top:23px;
+
+    z-index: 10;
+    background-color: #cecece;
+    width:100%;
+}
+
+.subNav p{
+    margin:0;
+    padding:4px;
+    text-align: center;
+}
+
+.subNav p:hover{
+    background-color: blue;
+    color:white;
+    cursor:pointer;
+}
+
+/* ---- affichage tableau ---- */
+.cadre, .wrapper, #wrapper{
+    /*border:2px solid;*/
+    margin:20px auto;
+    text-align: center;
+
+}
+.cadre p{
+    text-align: center;
+}
+.cadre p span{
+    border: 1px solid grey;
+    margin:10px;
+}
+.cadre p.cadreTitle{
+    border: 1px solid red;
+}
+
+.divTab {
+   /*border:1px solid;*/
+    border-collapse: collapse;
+    margin:20px auto;
+}
+
+.divTab td,.divTab th{
+    border:1px solid;
+    text-align:center;
+    padding:5px;
+}
+
+.hoverTab tbody tr:hover {
+    background-color: grey;
+   /* cursor:pointer;*/
+}
+
+
+/* ---- affichage filtre ---- */
+.filter{
+    margin:20px;
+    border:1px solid;
+    padding:10px;
+}
+.filter h3{
+    margin:0 auto;
+    text-align:center;
+}
+.filter form{
+    display:block;
+    text-align: center;
+}
+.filter p {
+    display:inline-block;
+    margin:20px;
+}
+
+/* --- HEADER --- */
+.clear{clear:both;}
+
+header #header_left{
+    float:left;
+    margin-left:40px;
+    height: 100%;
+    vertical-align: middle;
+}
+
+header #header_right{
+    float:right;
+    margin-right:40px;
+    /*height: 156px;*/
+}
+
+header #header_left p {
+    height:156px;
+    margin:0 10px;
+    line-height: 156px;
+    padding:0;
+    display: inline-block;
+}
+header #header_left p img{
+    width:100px;
+    height:100px;
+    vertical-align : middle;
+    padding:0;margin:0;
+    opacity: 0.5;
+}
+
+header #header_left p img:hover{
+    opacity:1;
+    cursor:pointer;
+}
+
+header #cadre-button{
+    /*position:relative;*/
+    margin:0 auto;
+    width:160px;
+}
+header #home-button{
+     width:150px;height:150px;
+     text-align: center;
+    padding:0;margin:0 auto;
+    border-radius: 100%;
+    border:7px solid white;
+    position:absolute;
+    top:-4px;
+ }
+
+header #home-button:hover img{
+   /* border:7px solid blue;*/
+    cursor:pointer;
+
+    -moz-box-shadow: 0 0 25px 2px #3531ff;
+    -webkit-box-shadow: 0 0 25px 2px #3531ff;
+    -o-box-shadow: 0 0 25px 2px #3531ff;
+    box-shadow: 0 0 25px 2px #3531ff;
+    filter:progid:DXImageTransform.Microsoft.Shadow(color=#3531ff, Direction=NaN, Strength=25);
+    -moz-border-radius: 100%;
+    -webkit-border-radius: 100%;
+    border-radius: 100%;
+}
+
+#back-header{
+    background-color: #cecece ;
+    height:156px;
+    position:relative;
+    margin-top:3px;
+}
+header #home-button img{
+   display:block;
+   margin:0;padding:0;
+    width:150px;height:150px;
+}
+
+/* ---- HOME MENU ---- */
+#home-nav{
+    max-width: 1150px;
+   /* border:1px solid;*/
+    margin:auto;
+    text-align: center;
+    line-height: 180px;
+    padding:0;
+}
+#home-nav > div{
+    width:180px;height:180px;
+    display: inline-block;
+    vertical-align:top;
+    border:1px solid;
+    margin:15px;
+    border-radius: 5%;
+}
+#home-nav > div:hover{
+    -moz-box-shadow: 0 0 15px 5px #3531ff;
+    -webkit-box-shadow: 0 0 15px 5px #3531ff;
+    -o-box-shadow: 0 0 15px 5px #3531ff;
+    box-shadow: 0 0 15px 5px #3531ff;
+    filter:progid:DXImageTransform.Microsoft.Shadow(color=#3531ff, Direction=NaN, Strength=15);
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+
+    cursor: pointer;
+}
+
+
+#home-nav > div:active{
+   background-color: grey;
+}
+#home-nav img{
+    display: block;
+    width:160px;height:160px;
+}
+#home-nav .img{
+    margin:0 auto;padding:0;
+    width:160px;height:160px;
+}
+#home-nav .homeTitle{
+    margin:0;
+    padding:0;
+    text-align: center;
+    height:20px;
+    line-height: normal;
+    font-weight: bold;
+}
+
+@keyframes alert {
+    0%   {background-color: white;}
+    50%  {background-color: red;}
+    100% {background-color: white;}
+}
+
+/* The element to apply the animation to */
+.anim-alert {
+    animation-name: alert;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+}
+
+/* ---- vue détaillé --- */
+
+.detail{
+margin: 20px;
+text-align: center;
+}
+
+.detail h4{
+    margin:-11px 0 0 0;
+}
+.detail span{
+    background-color:white;
+    padding:0 10px;
+}
+
+.detail h5{
+    margin:5px;
+}
+.detail .group{
+    margin:20px;
+    border:1px solid;
+    padding-bottom:20px;
+}
+
+.detail div.ib{
+    display:inline-block;
+    margin:0 50px;
+    vertical-align:top;
+}
+.detail div.ib p{
+   text-align:left;
+    margin:5px;
+}
+.detail div.ib p.right{
+    text-align:right;
+
+}
+
+.detail .group p textarea{
+    min-width:500px;
+    min-height:100px;
+}
+
+/* ----- status ------ */
+.inputStatus{
+    width:98%;
+}
+
+
+/* ----- product/equipment ----- */
+.addButton{
+    padding:0;
+    margin-left:10px;
+}
+.addButton img{
+    width:20px;
+    height:20px;
+    vertical-align: middle;
+
+}
+.addButton img:hover{
+   cursor:pointer;
+}
+
+/* ------------- HISTORIQUE ------------- */
+.cadreHistory{
+    border:0 solid;
+    margin:20px auto;
+}
+.titleHistory{
+    border:1px solid;
+    position:relative;
+}
+
+.titleHistory .date{
+    font-weight: bold;
+    font-size: 20px;
+}
+.contentHistory{
+    border:1px solid;
+}
+
+ul.equipmentList{
+display:none;
+}
+
+ul.equipmentList li{
+    display: inline-block;
+    margin-right:40px;
+}
+
+.toShow{
+    width:15px;
+    height:15px;
+}
+
+.toShow:hover{
+    cursor:pointer;
+    background-color:grey;
+}
+
+.optionBlock{
+    position:absolute;
+    right:30px;
+    top: 20px;
+}
+
+.optionBlock img{
+    width:20px;
+    height:20px;
+}
+.optionBlock img:hover {
+ cursor:pointer;
+}
+
+.textareaHistory{
+    margin: 20px;
+    width:70%;
+}
+
+#screen{
+   position:relative;
+    width:100%;
+    height:100%;
+
+}
+#connect{
+    border:1px solid;
+    text-align: center;
+    width:400px;
+    height:150px;
+    margin:150px auto;
+    padding:0;
+}
+
+#connect form{
+    vertical-align: middle;
+    height:100%;
+    margin: 0 auto;
+    padding:0;
+}
+
+/* PROFIL */
+.form_info{
+    font-size:12px;
+    font-style: italic;
+}

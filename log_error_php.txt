@@ -1,0 +1,1208 @@
+[05-Jun-2016 11:57:06 Europe/Paris] PHP Fatal error:  Call to undefined method CustomerManager::getSubList() in E:\EasyPHP\data\localweb\clim\module\client\update_client.php on line 23
+[05-Jun-2016 12:15:09 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\module\client\proc\seek.php on line 32
+[05-Jun-2016 12:15:13 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\module\client\proc\seek.php on line 32
+[05-Jun-2016 13:48:44 Europe/Paris] PHP Notice:  Undefined index: cl_number in E:\EasyPHP\data\localweb\clim\module\client\proc\seek_sub.php on line 35
+[05-Jun-2016 13:52:39 Europe/Paris] PHP Fatal error:  Call to undefined method CustomerManager::getSubList() in E:\EasyPHP\data\localweb\clim\module\client\new_sub.php on line 19
+[05-Jun-2016 13:53:49 Europe/Paris] PHP Fatal error:  Call to undefined method CustomerManager::getSubList() in E:\EasyPHP\data\localweb\clim\module\client\new_sub.php on line 19
+[05-Jun-2016 13:53:51 Europe/Paris] PHP Fatal error:  Call to undefined method CustomerManager::getSubList() in E:\EasyPHP\data\localweb\clim\module\client\new_sub.php on line 19
+[05-Jun-2016 13:54:29 Europe/Paris] PHP Fatal error:  Class 'CustomerManager' not found in E:\EasyPHP\data\localweb\clim\module\client\new_sub.php on line 17
+[05-Jun-2016 13:54:31 Europe/Paris] PHP Fatal error:  Class 'CustomerManager' not found in E:\EasyPHP\data\localweb\clim\module\client\new_sub.php on line 17
+[05-Jun-2016 13:56:39 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\module\client\class\SubManager.php on line 124
+[05-Jun-2016 14:09:49 Europe/Paris] PHP Notice:  Undefined index: contact in E:\EasyPHP\data\localweb\clim\module\client\update_sub.php on line 33
+[05-Jun-2016 14:09:49 Europe/Paris] PHP Notice:  Undefined index: name in E:\EasyPHP\data\localweb\clim\module\client\update_sub.php on line 35
+[05-Jun-2016 14:09:49 Europe/Paris] PHP Notice:  Undefined index: adress in E:\EasyPHP\data\localweb\clim\module\client\update_sub.php on line 37
+[05-Jun-2016 14:09:49 Europe/Paris] PHP Notice:  Undefined index: tel in E:\EasyPHP\data\localweb\clim\module\client\update_sub.php on line 38
+[05-Jun-2016 14:09:49 Europe/Paris] PHP Notice:  Undefined index: mail in E:\EasyPHP\data\localweb\clim\module\client\update_sub.php on line 39
+[05-Jun-2016 14:09:49 Europe/Paris] PHP Notice:  Undefined index: com in E:\EasyPHP\data\localweb\clim\module\client\update_sub.php on line 41
+[05-Jun-2016 14:11:10 Europe/Paris] PHP Catchable fatal error:  Argument 1 passed to SubManager::updateSub() must be an instance of Customer, instance of Sub given, called in E:\EasyPHP\data\localweb\clim\module\client\proc\update_sub.php on line 23 and defined in E:\EasyPHP\data\localweb\clim\module\client\class\SubManager.php on line 135
+[05-Jun-2016 14:18:34 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\module\client\class\SubManager.php on line 126
+[05-Jun-2016 17:25:22 Europe/Paris] PHP Warning:  include(E:/EasyPHP/data/localweb/clim/module/client/class/ProductManager.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\module\product\new_product.php on line 15
+[05-Jun-2016 17:25:22 Europe/Paris] PHP Warning:  include(): Failed opening 'E:/EasyPHP/data/localweb/clim/module/client/class/ProductManager.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\module\product\new_product.php on line 15
+[05-Jun-2016 17:25:22 Europe/Paris] PHP Fatal error:  Class 'ProductManager' not found in E:\EasyPHP\data\localweb\clim\module\product\new_product.php on line 16
+[05-Jun-2016 17:26:22 Europe/Paris] PHP Fatal error:  Class 'ProductManager' not found in E:\EasyPHP\data\localweb\clim\module\product\new_product.php on line 16
+[05-Jun-2016 17:26:51 Europe/Paris] PHP Fatal error:  Call to undefined method ProductManager::getProductList() in E:\EasyPHP\data\localweb\clim\module\product\new_product.php on line 17
+[05-Jun-2016 17:32:00 Europe/Paris] PHP Warning:  include(E:/EasyPHP/data/localweb/clim/module/product/class/SubManager.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\module\product\proc\new_product.php on line 21
+[05-Jun-2016 17:32:00 Europe/Paris] PHP Warning:  include(): Failed opening 'E:/EasyPHP/data/localweb/clim/module/product/class/SubManager.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\module\product\proc\new_product.php on line 21
+[05-Jun-2016 17:32:00 Europe/Paris] PHP Fatal error:  Class 'ProductManager' not found in E:\EasyPHP\data\localweb\clim\module\product\proc\new_product.php on line 22
+[05-Jun-2016 18:07:08 Europe/Paris] PHP Notice:  Undefined index: description in E:\EasyPHP\data\localweb\clim\module\product\class\Product.php on line 13
+[05-Jun-2016 18:07:59 Europe/Paris] PHP Notice:  Undefined index: description in E:\EasyPHP\data\localweb\clim\module\product\class\Product.php on line 13
+[05-Jun-2016 18:21:18 Europe/Paris] PHP Fatal error:  Call to undefined method CategoryManager::getCategoryByID() in E:\EasyPHP\data\localweb\clim\module\product\update_category.php on line 22
+[05-Jun-2016 20:00:25 Europe/Paris] PHP Notice:  Undefined variable: civTab in E:\EasyPHP\data\localweb\clim\module\client\equipment.php on line 48
+[05-Jun-2016 20:00:25 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\module\client\equipment.php on line 48
+[05-Jun-2016 20:00:25 Europe/Paris] PHP Notice:  Undefined variable: subList in E:\EasyPHP\data\localweb\clim\module\client\equipment.php on line 58
+[07-Jun-2016 19:27:28 Europe/Paris] PHP Notice:  Undefined index: adress in E:\EasyPHP\data\localweb\clim\module\client\proc\seek_client.php on line 38
+[07-Jun-2016 19:27:28 Europe/Paris] PHP Notice:  Undefined index: adress in E:\EasyPHP\data\localweb\clim\module\client\proc\seek_client.php on line 38
+[07-Jun-2016 19:27:28 Europe/Paris] PHP Notice:  Undefined index: adress in E:\EasyPHP\data\localweb\clim\module\client\proc\seek_client.php on line 38
+[07-Jun-2016 19:27:28 Europe/Paris] PHP Notice:  Undefined index: adress in E:\EasyPHP\data\localweb\clim\module\client\proc\seek_client.php on line 38
+[12-Jan-2017 20:55:45 Europe/Paris] PHP Notice:  Undefined index: dateOfBuy in E:\EasyPHP\data\localweb\clim\fluido\class\Bottle.php on line 23
+[12-Jan-2017 20:56:30 Europe/Paris] PHP Notice:  Undefined index: dateOfBuy in E:\EasyPHP\data\localweb\clim\fluido\class\Bottle.php on line 23
+[12-Jan-2017 20:57:02 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 101
+[12-Jan-2017 21:01:33 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 105
+[12-Jan-2017 21:02:45 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 106
+[12-Jan-2017 21:03:02 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 106
+[12-Jan-2017 21:03:38 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 108
+[12-Jan-2017 22:28:17 Europe/Paris] PHP Fatal error:  Call to undefined method GazManager::addGaz() in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 20
+[12-Jan-2017 22:28:52 Europe/Paris] PHP Catchable fatal error:  Argument 1 passed to GazManager::addGaz() must be an instance of Gaz, array given, called in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 20 and defined in E:\EasyPHP\data\localweb\clim\fluido\class\GazManager.php on line 12
+[12-Jan-2017 22:33:05 Europe/Paris] PHP Catchable fatal error:  Argument 1 passed to GazManager::addGaz() must be an instance of Gaz, array given, called in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 20 and defined in E:\EasyPHP\data\localweb\clim\fluido\class\GazManager.php on line 12
+[12-Jan-2017 22:44:15 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\fluido\class\GazManager.php on line 72
+[14-Jan-2017 13:44:30 Europe/Paris] PHP Fatal error:  Class 'GazManager' not found in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 24
+[14-Jan-2017 13:44:46 Europe/Paris] PHP Fatal error:  Class 'GazManager' not found in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 24
+[14-Jan-2017 13:45:05 Europe/Paris] PHP Fatal error:  Class 'MoveManager' not found in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 24
+[14-Jan-2017 14:52:02 Europe/Paris] PHP Notice:  Undefined variable: GazManager in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 28
+[14-Jan-2017 14:52:02 Europe/Paris] PHP Fatal error:  Call to a member function getMove() on a non-object in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 28
+[14-Jan-2017 14:52:16 Europe/Paris] PHP Notice:  Undefined variable: GazMove in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 28
+[14-Jan-2017 14:52:16 Europe/Paris] PHP Fatal error:  Call to a member function getMove() on a non-object in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 28
+[14-Jan-2017 14:52:35 Europe/Paris] PHP Notice:  Undefined variable: getMove in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 28
+[14-Jan-2017 14:52:35 Europe/Paris] PHP Fatal error:  Call to a member function getMove() on a non-object in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 28
+[14-Jan-2017 15:23:39 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 129
+[14-Jan-2017 15:24:31 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 130
+[14-Jan-2017 15:43:48 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 132
+[14-Jan-2017 15:49:39 Europe/Paris] PHP Warning:  Missing argument 2 for MoveManager::getMove(), called in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 29 and defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 103
+[14-Jan-2017 15:49:39 Europe/Paris] PHP Notice:  Undefined variable: param in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 108
+[14-Jan-2017 15:51:54 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 133
+[14-Jan-2017 15:53:57 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 133
+[14-Jan-2017 15:54:36 Europe/Paris] PHP Notice:  Undefined variable: tabKey in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 126
+[14-Jan-2017 15:54:36 Europe/Paris] PHP Notice:  Undefined variable: tabKey in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 126
+[14-Jan-2017 15:54:36 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 130
+[14-Jan-2017 15:54:56 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 130
+[14-Jan-2017 15:55:18 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 130
+[14-Jan-2017 16:15:04 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 126
+[14-Jan-2017 16:28:29 Europe/Paris] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 36 bytes) in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 149
+[14-Jan-2017 16:47:17 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 129
+[14-Jan-2017 16:49:53 Europe/Paris] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 131
+[14-Jan-2017 16:52:22 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 136
+[14-Jan-2017 16:52:22 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 140
+[14-Jan-2017 16:52:57 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 137
+[14-Jan-2017 16:52:57 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 141
+[14-Jan-2017 16:54:45 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 137
+[14-Jan-2017 16:54:45 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 141
+[14-Jan-2017 16:55:30 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 137
+[14-Jan-2017 16:55:30 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 141
+[14-Jan-2017 16:56:27 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 140
+[14-Jan-2017 16:56:27 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 144
+[14-Jan-2017 16:56:53 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 142
+[14-Jan-2017 16:56:53 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 146
+[14-Jan-2017 16:58:15 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 142
+[14-Jan-2017 16:58:15 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 146
+[14-Jan-2017 16:59:04 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 144
+[14-Jan-2017 16:59:04 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 148
+[14-Jan-2017 16:59:52 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 144
+[14-Jan-2017 16:59:52 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 148
+[14-Jan-2017 17:02:59 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 149
+[14-Jan-2017 17:02:59 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 153
+[14-Jan-2017 17:56:32 Europe/Paris] PHP Notice:  Undefined variable: result in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 30
+[14-Jan-2017 17:57:09 Europe/Paris] PHP Catchable fatal error:  Argument 1 passed to StockGazManager::addStock() must be an instance of StockGaz, instance of StockGazManager given, called in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 26 and defined in E:\EasyPHP\data\localweb\clim\fluido\class\StockGazManager.php on line 10
+[14-Jan-2017 18:17:29 Europe/Paris] PHP Notice:  Undefined variable: param in E:\EasyPHP\data\localweb\clim\fluido\class\StockGazManager.php on line 81
+[14-Jan-2017 18:17:29 Europe/Paris] PHP Notice:  Undefined variable: param in E:\EasyPHP\data\localweb\clim\fluido\class\StockGazManager.php on line 81
+[14-Jan-2017 18:17:29 Europe/Paris] PHP Notice:  Undefined variable: param in E:\EasyPHP\data\localweb\clim\fluido\class\StockGazManager.php on line 81
+[14-Jan-2017 18:17:29 Europe/Paris] PHP Notice:  Undefined variable: param in E:\EasyPHP\data\localweb\clim\fluido\class\StockGazManager.php on line 84
+[14-Jan-2017 18:51:03 Europe/Paris] PHP Warning:  include(class/Account.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\register\proc\user_connect.php on line 15
+[14-Jan-2017 18:51:03 Europe/Paris] PHP Warning:  include(): Failed opening 'class/Account.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\register\proc\user_connect.php on line 15
+[14-Jan-2017 18:51:04 Europe/Paris] PHP Fatal error:  Class 'AccountManager' not found in E:\EasyPHP\data\localweb\clim\register\proc\user_connect.php on line 20
+[14-Jan-2017 21:10:12 Europe/Paris] PHP Notice:  Undefined variable: db in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 16
+[14-Jan-2017 21:10:12 Europe/Paris] PHP Catchable fatal error:  Argument 1 passed to BottleManager::__construct() must be an instance of PDO, null given, called in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 16 and defined in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 5
+[14-Jan-2017 21:10:33 Europe/Paris] PHP Catchable fatal error:  Argument 1 passed to BottleManager::getBottle() must be of the type array, string given, called in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 18 and defined in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 86
+[14-Jan-2017 21:44:23 Europe/Paris] PHP Warning:  Missing argument 2 for BottleManager::getBottle(), called in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 18 and defined in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 158
+[14-Jan-2017 21:44:23 Europe/Paris] PHP Fatal error:  Uncaught exception 'Exception' with message 'data est vide' in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php:160
+Stack trace:
+#0 E:\EasyPHP\data\localweb\clim\fluido\index.php(18): BottleManager->getBottle('')
+#1 {main}
+  thrown in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 160
+[14-Jan-2017 21:51:22 Europe/Paris] PHP Warning:  date() expects parameter 2 to be long, array given in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 23
+[14-Jan-2017 22:00:57 Europe/Paris] PHP Notice:  Undefined variable: gazManager in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 28
+[14-Jan-2017 22:00:57 Europe/Paris] PHP Fatal error:  Call to a member function getGaz() on a non-object in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 28
+[14-Jan-2017 22:03:56 Europe/Paris] PHP Notice:  Undefined index: name in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 29
+[14-Jan-2017 22:03:56 Europe/Paris] PHP Notice:  Undefined index: name in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 29
+[14-Jan-2017 22:20:15 Europe/Paris] PHP Fatal error:  Uncaught exception 'Exception' with message 'Aucun résultat.' in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php:276
+Stack trace:
+#0 E:\EasyPHP\data\localweb\clim\fluido\index.php(35): BottleManager->getType('4')
+#1 {main}
+  thrown in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 276
+[14-Jan-2017 22:22:29 Europe/Paris] PHP Fatal error:  Uncaught exception 'Exception' with message 'Aucun résultat.' in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php:276
+Stack trace:
+#0 E:\EasyPHP\data\localweb\clim\fluido\index.php(35): BottleManager->getType('4')
+#1 {main}
+  thrown in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 276
+[14-Jan-2017 22:22:30 Europe/Paris] PHP Fatal error:  Uncaught exception 'Exception' with message 'Aucun résultat.' in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php:276
+Stack trace:
+#0 E:\EasyPHP\data\localweb\clim\fluido\index.php(35): BottleManager->getType('4')
+#1 {main}
+  thrown in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 276
+[14-Jan-2017 22:24:51 Europe/Paris] PHP Fatal error:  Uncaught exception 'Exception' with message 'Aucun résultat.' in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php:276
+Stack trace:
+#0 E:\EasyPHP\data\localweb\clim\fluido\index.php(35): BottleManager->getType('4')
+#1 {main}
+  thrown in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 276
+[14-Jan-2017 22:25:20 Europe/Paris] PHP Fatal error:  Uncaught exception 'Exception' with message 'Aucun résultat.' in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php:275
+Stack trace:
+#0 E:\EasyPHP\data\localweb\clim\fluido\index.php(35): BottleManager->getType('4')
+#1 {main}
+  thrown in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 275
+[16-Jan-2017 20:05:50 Europe/Paris] PHP Warning:  include(fournisseur/Fournisseur.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\test.php on line 8
+[16-Jan-2017 20:05:50 Europe/Paris] PHP Warning:  include(): Failed opening 'fournisseur/Fournisseur.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\test.php on line 8
+[16-Jan-2017 20:05:50 Europe/Paris] PHP Fatal error:  Class 'Fournisseur' not found in E:\EasyPHP\data\localweb\clim\test.php on line 10
+[16-Jan-2017 20:06:57 Europe/Paris] PHP Catchable fatal error:  Argument 1 passed to FournisseurManager::addFournisseur() must be an instance of Fournisseur, array given, called in E:\EasyPHP\data\localweb\clim\test.php on line 15 and defined in E:\EasyPHP\data\localweb\clim\fournisseur\class\FournisseurManager.php on line 10
+[16-Jan-2017 20:11:18 Europe/Paris] PHP Warning:  Missing argument 2 for FournisseurManager::getFournisseur(), called in E:\EasyPHP\data\localweb\clim\fournisseur\class\FournisseurManager.php on line 17 and defined in E:\EasyPHP\data\localweb\clim\fournisseur\class\FournisseurManager.php on line 71
+[16-Jan-2017 20:11:18 Europe/Paris] PHP Notice:  Undefined variable: param in E:\EasyPHP\data\localweb\clim\fournisseur\class\FournisseurManager.php on line 75
+[16-Jan-2017 20:11:18 Europe/Paris] PHP Notice:  Undefined variable: param in E:\EasyPHP\data\localweb\clim\fournisseur\class\FournisseurManager.php on line 75
+[16-Jan-2017 20:11:18 Europe/Paris] PHP Notice:  Undefined variable: param in E:\EasyPHP\data\localweb\clim\fournisseur\class\FournisseurManager.php on line 75
+[16-Jan-2017 20:11:18 Europe/Paris] PHP Notice:  Undefined variable: param in E:\EasyPHP\data\localweb\clim\fournisseur\class\FournisseurManager.php on line 78
+[16-Jan-2017 20:30:33 Europe/Paris] PHP Fatal error:  Class 'FournisseurManager' not found in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 22
+[16-Jan-2017 20:30:48 Europe/Paris] PHP Warning:  Missing argument 2 for FournisseurManager::getFournisseur(), called in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 52 and defined in E:\EasyPHP\data\localweb\clim\fournisseur\class\FournisseurManager.php on line 76
+[16-Jan-2017 20:30:48 Europe/Paris] PHP Notice:  Undefined variable: param in E:\EasyPHP\data\localweb\clim\fournisseur\class\FournisseurManager.php on line 80
+[16-Jan-2017 20:30:48 Europe/Paris] PHP Notice:  Undefined variable: param in E:\EasyPHP\data\localweb\clim\fournisseur\class\FournisseurManager.php on line 80
+[16-Jan-2017 20:30:48 Europe/Paris] PHP Notice:  Undefined variable: param in E:\EasyPHP\data\localweb\clim\fournisseur\class\FournisseurManager.php on line 80
+[16-Jan-2017 20:30:48 Europe/Paris] PHP Notice:  Undefined variable: param in E:\EasyPHP\data\localweb\clim\fournisseur\class\FournisseurManager.php on line 83
+[16-Jan-2017 20:30:48 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\fournisseur\class\FournisseurManager.php on line 90
+[16-Jan-2017 20:30:48 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\fournisseur\class\FournisseurManager.php on line 113
+[16-Jan-2017 20:31:03 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\fournisseur\class\FournisseurManager.php on line 90
+[16-Jan-2017 20:31:03 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\fournisseur\class\FournisseurManager.php on line 113
+[16-Jan-2017 20:35:08 Europe/Paris] PHP Notice:  Undefined offset: 0 in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 53
+[16-Jan-2017 20:38:39 Europe/Paris] PHP Notice:  Undefined index: fournisseurId in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 53
+[16-Jan-2017 20:40:35 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\fournisseur\class\FournisseurManager.php on line 91
+[16-Jan-2017 20:40:35 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\fournisseur\class\FournisseurManager.php on line 114
+[16-Jan-2017 22:00:11 Europe/Paris] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 3
+[16-Jan-2017 22:00:11 Europe/Paris] PHP Warning:  include(): Failed opening '../../config.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 3
+[16-Jan-2017 22:00:57 Europe/Paris] PHP Notice:  Constant DIR_ROOT already defined in E:\EasyPHP\data\localweb\clim\config.php on line 9
+[16-Jan-2017 22:00:57 Europe/Paris] PHP Notice:  Constant URL_ROOT already defined in E:\EasyPHP\data\localweb\clim\config.php on line 10
+[16-Jan-2017 22:00:57 Europe/Paris] PHP Notice:  Constant HEAD already defined in E:\EasyPHP\data\localweb\clim\config.php on line 11
+[16-Jan-2017 22:00:57 Europe/Paris] PHP Notice:  Constant HEADER already defined in E:\EasyPHP\data\localweb\clim\config.php on line 12
+[16-Jan-2017 22:00:57 Europe/Paris] PHP Notice:  Constant CONNECT already defined in E:\EasyPHP\data\localweb\clim\config.php on line 13
+[16-Jan-2017 22:00:57 Europe/Paris] PHP Notice:  Constant FOOTER already defined in E:\EasyPHP\data\localweb\clim\config.php on line 14
+[16-Jan-2017 22:00:57 Europe/Paris] PHP Notice:  Constant CHARSET already defined in E:\EasyPHP\data\localweb\clim\config.php on line 15
+[16-Jan-2017 22:00:57 Europe/Paris] PHP Notice:  Constant ERROR_AUTH already defined in E:\EasyPHP\data\localweb\clim\config.php on line 17
+[16-Jan-2017 22:00:57 Europe/Paris] PHP Notice:  Constant ERROR_DATA already defined in E:\EasyPHP\data\localweb\clim\config.php on line 18
+[20-Jan-2017 11:04:24 Europe/Paris] PHP Fatal error:  Cannot access private property FournisseurManager::$_db in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 42
+[20-Jan-2017 11:06:55 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on a non-object in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 44
+[20-Jan-2017 15:06:54 Europe/Paris] PHP Notice:  Undefined index: typeName in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 122
+[20-Jan-2017 15:06:54 Europe/Paris] PHP Notice:  Undefined index: typeName in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 122
+[20-Jan-2017 15:09:05 Europe/Paris] PHP Notice:  Undefined index: typeName in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 122
+[20-Jan-2017 15:09:05 Europe/Paris] PHP Notice:  Undefined index: fournisseurName in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 122
+[20-Jan-2017 15:09:05 Europe/Paris] PHP Notice:  Undefined index: typeName in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 122
+[20-Jan-2017 15:09:05 Europe/Paris] PHP Notice:  Undefined index: fournisseurName in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 122
+[20-Jan-2017 15:10:04 Europe/Paris] PHP Notice:  Undefined index: typeName in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 122
+[20-Jan-2017 15:10:04 Europe/Paris] PHP Notice:  Undefined index: typeName in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 122
+[20-Jan-2017 15:32:40 Europe/Paris] PHP Notice:  Undefined index: dateOfSellFr in E:\EasyPHP\data\localweb\clim\inc\table.php on line 12
+[20-Jan-2017 15:51:33 Europe/Paris] PHP Warning:  include(../../class/Generic.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 2
+[20-Jan-2017 15:51:33 Europe/Paris] PHP Warning:  include(): Failed opening '../../class/Generic.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 2
+[20-Jan-2017 15:51:33 Europe/Paris] PHP Fatal error:  Class 'Generic' not found in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 3
+[20-Jan-2017 16:04:06 Europe/Paris] PHP Warning:  include(../../class/Generic.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 2
+[20-Jan-2017 16:04:06 Europe/Paris] PHP Warning:  include(): Failed opening '../../class/Generic.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 2
+[20-Jan-2017 16:04:06 Europe/Paris] PHP Fatal error:  Class 'Generic' not found in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 3
+[20-Jan-2017 16:04:21 Europe/Paris] PHP Warning:  include(../../../class/Generic.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 2
+[20-Jan-2017 16:04:21 Europe/Paris] PHP Warning:  include(): Failed opening '../../../class/Generic.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 2
+[20-Jan-2017 16:04:21 Europe/Paris] PHP Fatal error:  Class 'Generic' not found in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 3
+[20-Jan-2017 16:05:02 Europe/Paris] PHP Fatal error:  Access level to BottleManager::$_db must be protected (as in class Generic) or weaker in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 3
+[20-Jan-2017 16:06:16 Europe/Paris] PHP Fatal error:  Cannot redeclare class Generic in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 2
+[20-Jan-2017 16:06:39 Europe/Paris] PHP Fatal error:  Cannot redeclare class Generic in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 2
+[20-Jan-2017 16:09:42 Europe/Paris] PHP Fatal error:  Cannot redeclare class Generic in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 2
+[20-Jan-2017 16:10:29 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 34
+[20-Jan-2017 16:10:29 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 57
+[20-Jan-2017 16:17:05 Europe/Paris] PHP Notice:  Undefined variable: seek in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 54
+[20-Jan-2017 16:17:05 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 61
+[20-Jan-2017 16:17:41 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 62
+[20-Jan-2017 16:19:03 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 62
+[20-Jan-2017 16:20:52 Europe/Paris] PHP Notice:  Undefined variable: table in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 55
+[20-Jan-2017 16:27:58 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 12
+[20-Jan-2017 16:29:24 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 31
+[20-Jan-2017 16:29:24 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 8
+[20-Jan-2017 16:29:24 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 8
+[20-Jan-2017 16:29:24 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 12
+[20-Jan-2017 16:57:25 Europe/Paris] PHP Notice:  Undefined variable: data in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 22
+[20-Jan-2017 16:59:52 Europe/Paris] PHP Warning:  include(class/BottleManager.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 9
+[20-Jan-2017 16:59:52 Europe/Paris] PHP Warning:  include(): Failed opening 'class/BottleManager.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 9
+[20-Jan-2017 16:59:52 Europe/Paris] PHP Fatal error:  Class 'BottleManager' not found in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 10
+[20-Jan-2017 17:15:39 Europe/Paris] PHP Notice:  Constant DIR_ROOT already defined in E:\EasyPHP\data\localweb\clim\config.php on line 9
+[20-Jan-2017 17:15:39 Europe/Paris] PHP Notice:  Constant URL_ROOT already defined in E:\EasyPHP\data\localweb\clim\config.php on line 10
+[20-Jan-2017 17:15:39 Europe/Paris] PHP Notice:  Constant HEAD already defined in E:\EasyPHP\data\localweb\clim\config.php on line 11
+[20-Jan-2017 17:15:39 Europe/Paris] PHP Notice:  Constant HEADER already defined in E:\EasyPHP\data\localweb\clim\config.php on line 12
+[20-Jan-2017 17:15:39 Europe/Paris] PHP Notice:  Constant CONNECT already defined in E:\EasyPHP\data\localweb\clim\config.php on line 13
+[20-Jan-2017 17:15:39 Europe/Paris] PHP Notice:  Constant FOOTER already defined in E:\EasyPHP\data\localweb\clim\config.php on line 14
+[20-Jan-2017 17:15:39 Europe/Paris] PHP Notice:  Constant CHARSET already defined in E:\EasyPHP\data\localweb\clim\config.php on line 15
+[20-Jan-2017 17:15:39 Europe/Paris] PHP Notice:  Constant ERROR_AUTH already defined in E:\EasyPHP\data\localweb\clim\config.php on line 17
+[20-Jan-2017 17:15:39 Europe/Paris] PHP Notice:  Constant ERROR_DATA already defined in E:\EasyPHP\data\localweb\clim\config.php on line 18
+[20-Jan-2017 17:27:50 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 72
+[20-Jan-2017 17:27:50 Europe/Paris] PHP Warning:  Illegal string offset 'name' in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 72
+[20-Jan-2017 17:27:50 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 72
+[20-Jan-2017 17:27:50 Europe/Paris] PHP Warning:  Illegal string offset 'name' in E:\EasyPHP\data\localweb\clim\fluido\index.php on line 72
+[20-Jan-2017 17:30:00 Europe/Paris] PHP Notice:  Undefined index: name in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 60
+[20-Jan-2017 17:31:02 Europe/Paris] PHP Notice:  Undefined index: name in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 60
+[20-Jan-2017 18:23:38 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 50
+[20-Jan-2017 18:23:38 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 12
+[20-Jan-2017 18:25:48 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 51
+[20-Jan-2017 18:25:48 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 12
+[20-Jan-2017 19:14:13 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 51
+[20-Jan-2017 19:14:13 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 12
+[20-Jan-2017 19:14:23 Europe/Paris] PHP Notice:  Undefined index: dateOfBuy in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 16
+[20-Jan-2017 19:14:23 Europe/Paris] PHP Notice:  Undefined index: dateOfBuy in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 17
+[20-Jan-2017 19:20:56 Europe/Paris] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 82
+[20-Jan-2017 19:21:24 Europe/Paris] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 82
+[20-Jan-2017 19:21:40 Europe/Paris] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 82
+[20-Jan-2017 19:22:13 Europe/Paris] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 82
+[20-Jan-2017 19:25:10 Europe/Paris] PHP Fatal error:  Call to undefined method DateTime::dateFormat() in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 81
+[20-Jan-2017 19:26:57 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 119
+[20-Jan-2017 19:26:57 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 44
+[20-Jan-2017 19:26:57 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 12
+[20-Jan-2017 19:39:01 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 119
+[20-Jan-2017 19:39:01 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 44
+[20-Jan-2017 19:39:01 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 12
+[20-Jan-2017 22:44:26 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 45
+[20-Jan-2017 22:44:26 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 12
+[20-Jan-2017 23:04:33 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 30
+[20-Jan-2017 23:04:33 Europe/Paris] PHP Notice:  Undefined variable: start in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 49
+[20-Jan-2017 23:04:33 Europe/Paris] PHP Notice:  Undefined variable: end in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 49
+[20-Jan-2017 23:04:33 Europe/Paris] PHP Notice:  Undefined variable: start in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 49
+[20-Jan-2017 23:04:33 Europe/Paris] PHP Notice:  Undefined variable: end in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 49
+[20-Jan-2017 23:36:00 Europe/Paris] PHP Fatal error:  Call to a member function format() on a non-object in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 26
+[20-Jan-2017 23:36:19 Europe/Paris] PHP Fatal error:  Call to a member function format() on a non-object in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 26
+[20-Jan-2017 23:48:48 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 32
+[20-Jan-2017 23:48:48 Europe/Paris] PHP Notice:  Undefined variable: start in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 51
+[20-Jan-2017 23:48:48 Europe/Paris] PHP Notice:  Undefined variable: end in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 51
+[20-Jan-2017 23:48:48 Europe/Paris] PHP Notice:  Undefined variable: start in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 51
+[20-Jan-2017 23:48:48 Europe/Paris] PHP Notice:  Undefined variable: end in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 51
+[20-Jan-2017 23:50:04 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 25
+[20-Jan-2017 23:50:04 Europe/Paris] PHP Notice:  Undefined variable: start in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 51
+[20-Jan-2017 23:50:04 Europe/Paris] PHP Notice:  Undefined variable: end in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 51
+[20-Jan-2017 23:50:04 Europe/Paris] PHP Notice:  Undefined variable: start in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 51
+[20-Jan-2017 23:50:04 Europe/Paris] PHP Notice:  Undefined variable: end in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 51
+[20-Jan-2017 23:51:28 Europe/Paris] PHP Notice:  Undefined variable: start in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 53
+[20-Jan-2017 23:51:28 Europe/Paris] PHP Notice:  Undefined variable: end in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 53
+[20-Jan-2017 23:51:28 Europe/Paris] PHP Notice:  Undefined variable: start in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 53
+[20-Jan-2017 23:51:28 Europe/Paris] PHP Notice:  Undefined variable: end in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 53
+[21-Jan-2017 00:43:39 Europe/Paris] PHP Fatal error:  Call to a member function format() on a non-object in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 18
+[21-Jan-2017 01:04:08 Europe/Paris] PHP Notice:  Undefined variable: Date2 in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 23
+[21-Jan-2017 01:04:08 Europe/Paris] PHP Fatal error:  Call to a member function format() on a non-object in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 23
+[21-Jan-2017 01:11:43 Europe/Paris] PHP Notice:  Undefined index: dateOfBuy in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 61
+[21-Jan-2017 01:12:19 Europe/Paris] PHP Notice:  Undefined index: dateOfBuy in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 61
+[21-Jan-2017 01:12:34 Europe/Paris] PHP Notice:  Undefined index: dateOfBuy in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 15
+[21-Jan-2017 01:12:34 Europe/Paris] PHP Notice:  Undefined index: dateOfBuy in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 61
+[21-Jan-2017 01:12:58 Europe/Paris] PHP Notice:  Undefined index: dateOfBuy in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 15
+[21-Jan-2017 01:13:27 Europe/Paris] PHP Notice:  Undefined index: dateOfBuy in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 15
+[21-Jan-2017 01:14:17 Europe/Paris] PHP Notice:  Undefined index: dateOfBuy in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 15
+[21-Jan-2017 01:16:54 Europe/Paris] PHP Notice:  Undefined index: dateOfBuy in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 15
+[22-Jan-2017 10:42:36 Europe/Paris] PHP Notice:  Undefined index: dateOfBuy in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 15
+[22-Jan-2017 10:44:12 Europe/Paris] PHP Notice:  Undefined index: dateOfBuy in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 15
+[22-Jan-2017 10:46:30 Europe/Paris] PHP Notice:  Undefined index: dateOfBuy in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 15
+[22-Jan-2017 10:47:32 Europe/Paris] PHP Notice:  Undefined index: dateOfBuy in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 15
+[22-Jan-2017 10:49:05 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 61
+[22-Jan-2017 10:49:38 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 61
+[22-Jan-2017 10:49:40 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 61
+[22-Jan-2017 10:59:03 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 62
+[22-Jan-2017 16:08:06 Europe/Paris] PHP Notice:  Undefined variable: start in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 77
+[22-Jan-2017 16:08:06 Europe/Paris] PHP Notice:  Undefined variable: end in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 77
+[22-Jan-2017 16:08:06 Europe/Paris] PHP Notice:  Undefined variable: start in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 78
+[22-Jan-2017 16:08:06 Europe/Paris] PHP Notice:  Undefined variable: end in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 78
+[22-Jan-2017 16:08:06 Europe/Paris] PHP Notice:  Undefined variable: start in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 77
+[22-Jan-2017 16:08:06 Europe/Paris] PHP Notice:  Undefined variable: end in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 77
+[22-Jan-2017 16:08:06 Europe/Paris] PHP Notice:  Undefined variable: start in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 78
+[22-Jan-2017 16:08:06 Europe/Paris] PHP Notice:  Undefined variable: end in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 78
+[22-Jan-2017 17:20:45 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 104
+[22-Jan-2017 17:23:08 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 104
+[22-Jan-2017 17:23:26 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 104
+[22-Jan-2017 17:25:23 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 105
+[22-Jan-2017 17:26:37 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 105
+[22-Jan-2017 17:27:37 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 105
+[22-Jan-2017 17:44:01 Europe/Paris] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 0 in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 56
+[22-Jan-2017 17:44:01 Europe/Paris] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 0 in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 92
+[23-Jan-2017 22:46:24 Europe/Paris] PHP Warning:  Missing argument 5 for Generic::getData(), called in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 109 and defined in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 16
+[23-Jan-2017 22:46:24 Europe/Paris] PHP Notice:  Undefined variable: order in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 85
+[23-Jan-2017 22:46:24 Europe/Paris] PHP Notice:  Undefined variable: order in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 88
+[25-Jan-2017 08:51:31 Europe/Paris] PHP Notice:  Undefined index: seek in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 16
+[25-Jan-2017 08:51:31 Europe/Paris] PHP Warning:  include(E:/EasyPHP/data/localweb/clim/module/client/class/CustomerManager.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 17
+[25-Jan-2017 08:51:31 Europe/Paris] PHP Warning:  include(): Failed opening 'E:/EasyPHP/data/localweb/clim/module/client/class/CustomerManager.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 17
+[25-Jan-2017 08:51:32 Europe/Paris] PHP Fatal error:  Class 'CustomerManager' not found in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 19
+[25-Jan-2017 08:56:27 Europe/Paris] PHP Notice:  Undefined index: seek in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 16
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Warning:  Missing argument 5 for Generic::getData(), called in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 26 and defined in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 16
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined variable: order in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 85
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined variable: order in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 88
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 41
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: cl_number in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 43
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: firstName in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 44
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 45
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 46
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 47
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 41
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: cl_number in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 43
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: firstName in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 44
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 45
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 46
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 47
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 41
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: cl_number in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 43
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: firstName in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 44
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 45
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 46
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 47
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 41
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: cl_number in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 43
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: firstName in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 44
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 45
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 46
+[25-Jan-2017 08:56:28 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 47
+[25-Jan-2017 16:12:14 Europe/Paris] PHP Notice:  Undefined index: cl_number in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 55
+[25-Jan-2017 16:12:14 Europe/Paris] PHP Notice:  Undefined index: firstName in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 56
+[25-Jan-2017 16:12:14 Europe/Paris] PHP Notice:  Undefined index: cl_number in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 55
+[25-Jan-2017 16:12:14 Europe/Paris] PHP Notice:  Undefined index: firstName in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 56
+[25-Jan-2017 16:12:14 Europe/Paris] PHP Notice:  Undefined index: cl_number in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 55
+[25-Jan-2017 16:12:14 Europe/Paris] PHP Notice:  Undefined index: firstName in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 56
+[25-Jan-2017 16:12:14 Europe/Paris] PHP Notice:  Undefined index: cl_number in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 55
+[25-Jan-2017 16:12:14 Europe/Paris] PHP Notice:  Undefined index: firstName in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 56
+[25-Jan-2017 16:18:09 Europe/Paris] PHP Notice:  Undefined variable: tabTile in E:\EasyPHP\data\localweb\clim\inc\table.php on line 6
+[25-Jan-2017 16:18:09 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 18
+[25-Jan-2017 16:19:03 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 18
+[25-Jan-2017 16:21:30 Europe/Paris] PHP Parse error:  syntax error, unexpected '!=' (T_IS_NOT_EQUAL) in E:\EasyPHP\data\localweb\clim\inc\table.php on line 10
+[25-Jan-2017 16:53:24 Europe/Paris] PHP Warning:  include(E:/EasyPHP/data/localweb/clim/module/client/class/CustomerManager.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\client\new_client.php on line 18
+[25-Jan-2017 16:53:24 Europe/Paris] PHP Warning:  include(): Failed opening 'E:/EasyPHP/data/localweb/clim/module/client/class/CustomerManager.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\client\new_client.php on line 18
+[25-Jan-2017 16:53:24 Europe/Paris] PHP Fatal error:  Class 'CustomerManager' not found in E:\EasyPHP\data\localweb\clim\client\new_client.php on line 19
+[25-Jan-2017 16:54:20 Europe/Paris] PHP Warning:  include(E:/EasyPHP/data/localweb/clim/module/client/class/CustomerManager.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\client\new_client.php on line 18
+[25-Jan-2017 16:54:20 Europe/Paris] PHP Warning:  include(): Failed opening 'E:/EasyPHP/data/localweb/clim/module/client/class/CustomerManager.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\client\new_client.php on line 18
+[25-Jan-2017 16:54:20 Europe/Paris] PHP Fatal error:  Class 'CustomerManager' not found in E:\EasyPHP\data\localweb\clim\client\new_client.php on line 19
+[25-Jan-2017 16:55:54 Europe/Paris] PHP Warning:  include(E:/EasyPHP/data/localweb/clim/module/client/class/CustomerManager.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\client\new_client.php on line 18
+[25-Jan-2017 16:55:54 Europe/Paris] PHP Warning:  include(): Failed opening 'E:/EasyPHP/data/localweb/clim/module/client/class/CustomerManager.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\client\new_client.php on line 18
+[25-Jan-2017 16:55:54 Europe/Paris] PHP Fatal error:  Class 'CustomerManager' not found in E:\EasyPHP\data\localweb\clim\client\new_client.php on line 19
+[25-Jan-2017 17:17:24 Europe/Paris] PHP Notice:  Undefined index: cl_number in E:\EasyPHP\data\localweb\clim\client\class\Customer.php on line 22
+[25-Jan-2017 17:18:31 Europe/Paris] PHP Notice:  Undefined index: adress in E:\EasyPHP\data\localweb\clim\client\class\Customer.php on line 27
+[25-Jan-2017 17:28:20 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\client\class\CustomerManager.php on line 145
+[25-Jan-2017 17:31:09 Europe/Paris] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in E:\EasyPHP\data\localweb\clim\client\class\CustomerManager.php on line 116
+[25-Jan-2017 18:20:25 Europe/Paris] PHP Warning:  include(E:/EasyPHP/data/localweb/clim/module/client/class/SubManager.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\client\proc\seek_sub.php on line 17
+[25-Jan-2017 18:20:25 Europe/Paris] PHP Warning:  include(): Failed opening 'E:/EasyPHP/data/localweb/clim/module/client/class/SubManager.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\client\proc\seek_sub.php on line 17
+[25-Jan-2017 18:20:26 Europe/Paris] PHP Fatal error:  Class 'SubManager' not found in E:\EasyPHP\data\localweb\clim\client\proc\seek_sub.php on line 19
+[26-Jan-2017 22:28:46 Europe/Paris] PHP Notice:  Undefined variable: CustomerManager in E:\EasyPHP\data\localweb\clim\client\client.php on line 38
+[26-Jan-2017 22:28:46 Europe/Paris] PHP Fatal error:  Call to a member function getData() on a non-object in E:\EasyPHP\data\localweb\clim\client\client.php on line 38
+[26-Jan-2017 22:28:55 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 37
+[26-Jan-2017 22:28:55 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 92
+[26-Jan-2017 22:35:34 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 37
+[26-Jan-2017 22:35:34 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 92
+[27-Jan-2017 11:48:22 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\client\client.php on line 71
+[01-Feb-2017 20:19:11 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\header.php on line 8
+[01-Feb-2017 20:37:08 Europe/Paris] PHP Fatal error:  Call to undefined method CustomerManager::getCustomerByID() in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 27
+[01-Feb-2017 20:39:39 Europe/Paris] PHP Warning:  include(E:/EasyPHP/data/localweb/clim/client/class/Generic.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 28
+[01-Feb-2017 20:39:39 Europe/Paris] PHP Warning:  include(): Failed opening 'E:/EasyPHP/data/localweb/clim/client/class/Generic.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 28
+[01-Feb-2017 20:39:39 Europe/Paris] PHP Fatal error:  Class 'Generic' not found in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 29
+[01-Feb-2017 20:39:51 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 37
+[01-Feb-2017 20:39:51 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 92
+[01-Feb-2017 20:41:00 Europe/Paris] PHP Notice:  Undefined index: status in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 43
+[01-Feb-2017 20:41:00 Europe/Paris] PHP Notice:  Undefined index: status in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 44
+[01-Feb-2017 20:41:00 Europe/Paris] PHP Notice:  Undefined index: civility_id in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 51
+[01-Feb-2017 20:41:00 Europe/Paris] PHP Notice:  Undefined index: civility_id in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 51
+[01-Feb-2017 20:41:00 Europe/Paris] PHP Notice:  Undefined index: civility_id in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 51
+[01-Feb-2017 20:41:00 Europe/Paris] PHP Notice:  Undefined index: cl_number in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 55
+[01-Feb-2017 20:41:00 Europe/Paris] PHP Notice:  Undefined index: sub_id in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 65
+[01-Feb-2017 20:41:00 Europe/Paris] PHP Notice:  Undefined index: sub_id in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 65
+[01-Feb-2017 20:41:00 Europe/Paris] PHP Notice:  Undefined index: sub_id in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 65
+[01-Feb-2017 20:41:00 Europe/Paris] PHP Notice:  Undefined index: contact in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 69
+[01-Feb-2017 20:41:00 Europe/Paris] PHP Notice:  Undefined index: name in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 73
+[01-Feb-2017 20:41:00 Europe/Paris] PHP Notice:  Undefined index: firstName in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 74
+[01-Feb-2017 20:41:00 Europe/Paris] PHP Notice:  Undefined index: adress in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 76
+[01-Feb-2017 20:41:00 Europe/Paris] PHP Notice:  Undefined index: tel in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 77
+[01-Feb-2017 20:41:00 Europe/Paris] PHP Notice:  Undefined index: port in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 78
+[01-Feb-2017 20:41:00 Europe/Paris] PHP Notice:  Undefined index: mail in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 79
+[01-Feb-2017 20:41:00 Europe/Paris] PHP Notice:  Undefined index: com in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 81
+[01-Feb-2017 20:53:20 Europe/Paris] PHP Notice:  Undefined index: status in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 44
+[01-Feb-2017 20:53:20 Europe/Paris] PHP Notice:  Undefined index: status in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 45
+[01-Feb-2017 20:53:20 Europe/Paris] PHP Notice:  Undefined index: civility_id in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 52
+[01-Feb-2017 20:53:20 Europe/Paris] PHP Notice:  Undefined index: civility_id in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 52
+[01-Feb-2017 20:53:20 Europe/Paris] PHP Notice:  Undefined index: civility_id in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 52
+[01-Feb-2017 20:53:20 Europe/Paris] PHP Notice:  Undefined index: cl_number in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 56
+[01-Feb-2017 20:53:20 Europe/Paris] PHP Notice:  Undefined index: sub_id in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 66
+[01-Feb-2017 20:53:20 Europe/Paris] PHP Notice:  Undefined index: sub_id in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 66
+[01-Feb-2017 20:53:20 Europe/Paris] PHP Notice:  Undefined index: sub_id in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 66
+[01-Feb-2017 20:53:20 Europe/Paris] PHP Notice:  Undefined index: contact in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 70
+[01-Feb-2017 20:53:20 Europe/Paris] PHP Notice:  Undefined index: name in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 74
+[01-Feb-2017 20:53:20 Europe/Paris] PHP Notice:  Undefined index: firstName in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 75
+[01-Feb-2017 20:53:20 Europe/Paris] PHP Notice:  Undefined index: adress in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 77
+[01-Feb-2017 20:53:20 Europe/Paris] PHP Notice:  Undefined index: tel in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 78
+[01-Feb-2017 20:53:20 Europe/Paris] PHP Notice:  Undefined index: port in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 79
+[01-Feb-2017 20:53:20 Europe/Paris] PHP Notice:  Undefined index: mail in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 80
+[01-Feb-2017 20:53:20 Europe/Paris] PHP Notice:  Undefined index: com in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 82
+[01-Feb-2017 20:53:35 Europe/Paris] PHP Notice:  Undefined index: civility_id in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 53
+[01-Feb-2017 20:53:35 Europe/Paris] PHP Notice:  Undefined index: civility_id in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 53
+[01-Feb-2017 20:53:35 Europe/Paris] PHP Notice:  Undefined index: civility_id in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 53
+[01-Feb-2017 20:53:35 Europe/Paris] PHP Notice:  Undefined index: cl_number in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 57
+[01-Feb-2017 20:53:35 Europe/Paris] PHP Notice:  Undefined index: adress in E:\EasyPHP\data\localweb\clim\client\update_client.php on line 78
+[01-Feb-2017 21:40:39 Europe/Paris] PHP Notice:  Undefined index: contact in E:\EasyPHP\data\localweb\clim\client\class\Customer.php on line 27
+[01-Feb-2017 21:40:55 Europe/Paris] PHP Notice:  Undefined index: contact in E:\EasyPHP\data\localweb\clim\client\class\Customer.php on line 27
+[01-Feb-2017 21:41:01 Europe/Paris] PHP Notice:  Undefined index: contact in E:\EasyPHP\data\localweb\clim\client\class\Customer.php on line 27
+[02-Feb-2017 21:48:39 Europe/Paris] PHP Notice:  Undefined index: raod in E:\EasyPHP\data\localweb\clim\client\class\Sub.php on line 20
+[02-Feb-2017 21:48:43 Europe/Paris] PHP Notice:  Undefined index: raod in E:\EasyPHP\data\localweb\clim\client\class\Sub.php on line 20
+[02-Feb-2017 21:48:48 Europe/Paris] PHP Notice:  Undefined index: raod in E:\EasyPHP\data\localweb\clim\client\class\Sub.php on line 20
+[02-Feb-2017 21:48:52 Europe/Paris] PHP Notice:  Undefined index: raod in E:\EasyPHP\data\localweb\clim\client\class\Sub.php on line 20
+[02-Feb-2017 22:13:36 Europe/Paris] PHP Notice:  Undefined index: port in E:\EasyPHP\data\localweb\clim\client\view_sub.php on line 76
+[02-Feb-2017 22:27:43 Europe/Paris] PHP Notice:  Undefined index: status in E:\EasyPHP\data\localweb\clim\client\class\Customer.php on line 23
+[02-Feb-2017 22:27:57 Europe/Paris] PHP Notice:  Undefined index: status in E:\EasyPHP\data\localweb\clim\client\class\Customer.php on line 23
+[04-Feb-2017 10:06:20 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 43
+[04-Feb-2017 10:50:50 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 44
+[04-Feb-2017 10:51:59 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 44
+[04-Feb-2017 10:52:15 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 44
+[04-Feb-2017 10:54:04 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 37
+[04-Feb-2017 10:54:04 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 92
+[04-Feb-2017 11:14:56 Europe/Paris] PHP Parse error:  syntax error, unexpected '<' in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 38
+[04-Feb-2017 18:17:52 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 40
+[04-Feb-2017 18:19:31 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 40
+[04-Feb-2017 18:19:55 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 40
+[04-Feb-2017 18:21:14 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 40
+[04-Feb-2017 18:23:59 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 40
+[04-Feb-2017 18:25:30 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 40
+[04-Feb-2017 18:26:02 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 40
+[04-Feb-2017 18:36:45 Europe/Paris] PHP Notice:  Undefined variable: CustomerManager in E:\EasyPHP\data\localweb\clim\status\proc\set_status.php on line 28
+[04-Feb-2017 18:36:45 Europe/Paris] PHP Fatal error:  Call to a member function getData() on a non-object in E:\EasyPHP\data\localweb\clim\status\proc\set_status.php on line 28
+[04-Feb-2017 18:37:12 Europe/Paris] PHP Fatal error:  Class 'StatusClient' not found in E:\EasyPHP\data\localweb\clim\status\proc\set_status.php on line 33
+[04-Feb-2017 18:37:40 Europe/Paris] PHP Warning:  preg_match(): Compilation failed: range out of order in character class at offset 12 in E:\EasyPHP\data\localweb\clim\status\class\StatusClient.php on line 39
+[05-Feb-2017 10:31:24 Europe/Paris] PHP Warning:  preg_split(): Unknown modifier '\' in E:\EasyPHP\data\localweb\clim\status\class\StatusClient.php on line 42
+[05-Feb-2017 10:31:50 Europe/Paris] PHP Warning:  preg_split(): Unknown modifier '\' in E:\EasyPHP\data\localweb\clim\status\class\StatusClient.php on line 42
+[05-Feb-2017 10:32:28 Europe/Paris] PHP Notice:  Undefined index: date in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 28
+[05-Feb-2017 10:32:28 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 49
+[05-Feb-2017 10:32:28 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 49
+[05-Feb-2017 10:32:28 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 49
+[05-Feb-2017 10:32:28 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 49
+[05-Feb-2017 10:32:28 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 49
+[05-Feb-2017 10:32:28 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 49
+[05-Feb-2017 10:32:28 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 49
+[05-Feb-2017 10:32:28 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 49
+[05-Feb-2017 10:32:28 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 49
+[05-Feb-2017 10:33:49 Europe/Paris] PHP Notice:  Undefined index: date in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 28
+[05-Feb-2017 10:33:49 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 49
+[05-Feb-2017 10:33:49 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 49
+[05-Feb-2017 10:33:49 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 49
+[05-Feb-2017 10:33:49 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 49
+[05-Feb-2017 10:33:49 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 49
+[05-Feb-2017 10:33:49 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 49
+[05-Feb-2017 10:33:49 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 49
+[05-Feb-2017 10:33:49 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 49
+[05-Feb-2017 10:33:49 Europe/Paris] PHP Notice:  Undefined index: customerId in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 49
+[05-Feb-2017 10:36:28 Europe/Paris] PHP Notice:  Undefined variable: day in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 61
+[05-Feb-2017 10:45:05 Europe/Paris] PHP Notice:  Undefined variable: Day in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 34
+[05-Feb-2017 10:45:05 Europe/Paris] PHP Fatal error:  Call to a member function format() on a non-object in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 34
+[05-Feb-2017 10:46:10 Europe/Paris] PHP Notice:  Undefined variable: day in E:\EasyPHP\data\localweb\clim\status\inc\show_status.php on line 63
+[05-Feb-2017 19:56:04 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in E:\EasyPHP\data\localweb\clim\status\class\StatusClient.php on line 44
+[05-Feb-2017 20:18:27 Europe/Paris] PHP Notice:  Undefined index: statusId in E:\EasyPHP\data\localweb\clim\status\proc\set_status.php on line 30
+[05-Feb-2017 20:18:27 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\status\proc\set_status.php on line 33
+[05-Feb-2017 20:19:40 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\status\proc\set_status.php on line 33
+[06-Feb-2017 20:19:46 Europe/Paris] PHP Notice:  Undefined variable: StatusManager in E:\EasyPHP\data\localweb\clim\status\proc\addStatus.php on line 22
+[06-Feb-2017 20:19:46 Europe/Paris] PHP Fatal error:  Class name must be a valid object or a string in E:\EasyPHP\data\localweb\clim\status\proc\addStatus.php on line 22
+[06-Feb-2017 20:19:56 Europe/Paris] PHP Notice:  Undefined variable: StatusManager in E:\EasyPHP\data\localweb\clim\status\proc\addStatus.php on line 22
+[06-Feb-2017 20:19:56 Europe/Paris] PHP Fatal error:  Class name must be a valid object or a string in E:\EasyPHP\data\localweb\clim\status\proc\addStatus.php on line 22
+[13-Feb-2017 21:04:30 Europe/Paris] PHP Warning:  include(E:/EasyPHP/data/localweb/clim/product/class/Mark.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\equipment\proc\addMark.php on line 17
+[13-Feb-2017 21:04:30 Europe/Paris] PHP Warning:  include(): Failed opening 'E:/EasyPHP/data/localweb/clim/product/class/Mark.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\equipment\proc\addMark.php on line 17
+[13-Feb-2017 21:04:30 Europe/Paris] PHP Fatal error:  Class 'Mark' not found in E:\EasyPHP\data\localweb\clim\equipment\proc\addMark.php on line 18
+[13-Feb-2017 21:05:17 Europe/Paris] PHP Notice:  Undefined variable: CategoryManager in E:\EasyPHP\data\localweb\clim\equipment\proc\addMark.php on line 23
+[13-Feb-2017 21:05:17 Europe/Paris] PHP Fatal error:  Call to a member function addMark() on a non-object in E:\EasyPHP\data\localweb\clim\equipment\proc\addMark.php on line 23
+[14-Feb-2017 18:55:22 Europe/Paris] PHP Warning:  include(E:/EasyPHP/data/localweb/clim/module/product/class/Product.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\equipment\proc\new_product.php on line 17
+[14-Feb-2017 18:55:22 Europe/Paris] PHP Warning:  include(): Failed opening 'E:/EasyPHP/data/localweb/clim/module/product/class/Product.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\equipment\proc\new_product.php on line 17
+[14-Feb-2017 18:55:22 Europe/Paris] PHP Fatal error:  Class 'Product' not found in E:\EasyPHP\data\localweb\clim\equipment\proc\new_product.php on line 18
+[14-Feb-2017 18:56:32 Europe/Paris] PHP Warning:  include(E:/EasyPHP/data/localweb/clim/module/product/class/Product.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\equipment\proc\new_product.php on line 17
+[14-Feb-2017 18:56:32 Europe/Paris] PHP Warning:  include(): Failed opening 'E:/EasyPHP/data/localweb/clim/module/product/class/Product.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\equipment\proc\new_product.php on line 17
+[14-Feb-2017 18:56:32 Europe/Paris] PHP Fatal error:  Class 'Product' not found in E:\EasyPHP\data\localweb\clim\equipment\proc\new_product.php on line 18
+[14-Feb-2017 18:57:43 Europe/Paris] PHP Warning:  include(E:/EasyPHP/data/localweb/clim/module/product/class/Product.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\equipment\proc\new_product.php on line 17
+[14-Feb-2017 18:57:43 Europe/Paris] PHP Warning:  include(): Failed opening 'E:/EasyPHP/data/localweb/clim/module/product/class/Product.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\equipment\proc\new_product.php on line 17
+[14-Feb-2017 18:57:43 Europe/Paris] PHP Fatal error:  Class 'Product' not found in E:\EasyPHP\data\localweb\clim\equipment\proc\new_product.php on line 18
+[14-Feb-2017 18:58:41 Europe/Paris] PHP Warning:  include(E:/EasyPHP/data/localweb/clim/module/product/class/Product.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\equipment\proc\new_product.php on line 17
+[14-Feb-2017 18:58:41 Europe/Paris] PHP Warning:  include(): Failed opening 'E:/EasyPHP/data/localweb/clim/module/product/class/Product.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\equipment\proc\new_product.php on line 17
+[14-Feb-2017 18:58:41 Europe/Paris] PHP Fatal error:  Class 'Product' not found in E:\EasyPHP\data\localweb\clim\equipment\proc\new_product.php on line 18
+[14-Feb-2017 19:25:52 Europe/Paris] PHP Notice:  Undefined index: frigo in E:\EasyPHP\data\localweb\clim\equipment\class\Category.php on line 13
+[14-Feb-2017 21:40:51 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\equipment\class\ProductManager.php on line 40
+[14-Feb-2017 21:41:10 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\equipment\class\ProductManager.php on line 40
+[14-Feb-2017 21:43:45 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\equipment\class\ProductManager.php on line 40
+[14-Feb-2017 21:48:13 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 29
+[14-Feb-2017 21:49:32 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 29
+[15-Feb-2017 17:53:35 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\equipment\product.php on line 38
+[15-Feb-2017 18:27:38 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\equipment\class\ProductManager.php on line 61
+[15-Feb-2017 18:29:41 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\equipment\class\ProductManager.php on line 61
+[15-Feb-2017 18:30:13 Europe/Paris] PHP Notice:  Undefined index: name in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 40
+[15-Feb-2017 18:30:13 Europe/Paris] PHP Notice:  Undefined index: mark in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 43
+[15-Feb-2017 18:30:13 Europe/Paris] PHP Notice:  Undefined index: description in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 46
+[15-Feb-2017 18:30:13 Europe/Paris] PHP Notice:  Undefined index: category_id in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 52
+[15-Feb-2017 18:31:04 Europe/Paris] PHP Notice:  Undefined index: name in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 40
+[15-Feb-2017 18:31:04 Europe/Paris] PHP Notice:  Undefined index: mark in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 43
+[15-Feb-2017 18:31:04 Europe/Paris] PHP Notice:  Undefined index: description in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 46
+[15-Feb-2017 18:31:04 Europe/Paris] PHP Notice:  Undefined index: category_id in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 52
+[15-Feb-2017 18:45:13 Europe/Paris] PHP Notice:  Undefined index: productName in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 41
+[15-Feb-2017 18:45:13 Europe/Paris] PHP Notice:  Undefined index: mark in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 44
+[15-Feb-2017 18:45:13 Europe/Paris] PHP Notice:  Undefined index: description in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 47
+[15-Feb-2017 18:45:13 Europe/Paris] PHP Notice:  Undefined index: category_id in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 53
+[15-Feb-2017 18:45:39 Europe/Paris] PHP Notice:  Undefined index: productName in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 41
+[15-Feb-2017 18:45:39 Europe/Paris] PHP Notice:  Undefined index: mark in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 44
+[15-Feb-2017 18:45:39 Europe/Paris] PHP Notice:  Undefined index: description in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 47
+[15-Feb-2017 18:45:39 Europe/Paris] PHP Notice:  Undefined index: category_id in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 53
+[15-Feb-2017 18:46:27 Europe/Paris] PHP Notice:  Undefined index: mark in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 44
+[15-Feb-2017 18:46:27 Europe/Paris] PHP Notice:  Undefined index: category_id in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 53
+[15-Feb-2017 18:53:56 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in E:\EasyPHP\data\localweb\clim\equipment\class\ProductManager.php on line 63
+[15-Feb-2017 18:59:31 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in E:\EasyPHP\data\localweb\clim\equipment\class\ProductManager.php on line 63
+[15-Feb-2017 19:01:56 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in E:\EasyPHP\data\localweb\clim\equipment\class\ProductManager.php on line 63
+[15-Feb-2017 19:10:39 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in E:\EasyPHP\data\localweb\clim\equipment\class\ProductManager.php on line 63
+[15-Feb-2017 19:11:55 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in E:\EasyPHP\data\localweb\clim\equipment\class\ProductManager.php on line 63
+[15-Feb-2017 19:16:48 Europe/Paris] PHP Notice:  Undefined variable: categoryId in E:\EasyPHP\data\localweb\clim\equipment\class\ProductManager.php on line 62
+[15-Feb-2017 19:16:48 Europe/Paris] PHP Notice:  Undefined variable: markId in E:\EasyPHP\data\localweb\clim\equipment\class\ProductManager.php on line 62
+[15-Feb-2017 19:17:18 Europe/Paris] PHP Notice:  Undefined variable: categoryId in E:\EasyPHP\data\localweb\clim\equipment\class\ProductManager.php on line 62
+[15-Feb-2017 19:17:18 Europe/Paris] PHP Notice:  Undefined variable: markId in E:\EasyPHP\data\localweb\clim\equipment\class\ProductManager.php on line 62
+[15-Feb-2017 19:17:51 Europe/Paris] PHP Notice:  Undefined variable: categoryId in E:\EasyPHP\data\localweb\clim\equipment\class\ProductManager.php on line 62
+[15-Feb-2017 19:19:10 Europe/Paris] PHP Notice:  Undefined variable: markId in E:\EasyPHP\data\localweb\clim\equipment\class\ProductManager.php on line 62
+[15-Feb-2017 19:19:11 Europe/Paris] PHP Notice:  Undefined variable: categoryId in E:\EasyPHP\data\localweb\clim\equipment\class\ProductManager.php on line 62
+[15-Feb-2017 19:19:11 Europe/Paris] PHP Notice:  Undefined variable: markId in E:\EasyPHP\data\localweb\clim\equipment\class\ProductManager.php on line 62
+[15-Feb-2017 19:24:52 Europe/Paris] PHP Notice:  Undefined variable: markList in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 47
+[15-Feb-2017 19:25:25 Europe/Paris] PHP Notice:  Undefined index: markId in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:25:25 Europe/Paris] PHP Notice:  Undefined index: markId in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:25:25 Europe/Paris] PHP Notice:  Undefined index: markId in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:25:25 Europe/Paris] PHP Notice:  Undefined index: markId in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:25:25 Europe/Paris] PHP Notice:  Undefined index: markId in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:27:20 Europe/Paris] PHP Notice:  Undefined index: markId in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:27:20 Europe/Paris] PHP Notice:  Undefined index: markName in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:27:20 Europe/Paris] PHP Notice:  Undefined index: markId in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:27:20 Europe/Paris] PHP Notice:  Undefined index: markName in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:27:20 Europe/Paris] PHP Notice:  Undefined index: markId in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:27:20 Europe/Paris] PHP Notice:  Undefined index: markName in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:27:20 Europe/Paris] PHP Notice:  Undefined index: markId in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:27:20 Europe/Paris] PHP Notice:  Undefined index: markName in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:27:20 Europe/Paris] PHP Notice:  Undefined index: markId in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:27:20 Europe/Paris] PHP Notice:  Undefined index: markName in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:27:58 Europe/Paris] PHP Notice:  Undefined index: markId in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:27:58 Europe/Paris] PHP Notice:  Undefined index: markName in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:27:58 Europe/Paris] PHP Notice:  Undefined index: markId in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:27:58 Europe/Paris] PHP Notice:  Undefined index: markName in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:27:58 Europe/Paris] PHP Notice:  Undefined index: markId in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:27:58 Europe/Paris] PHP Notice:  Undefined index: markName in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:27:58 Europe/Paris] PHP Notice:  Undefined index: markId in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:27:58 Europe/Paris] PHP Notice:  Undefined index: markName in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:27:58 Europe/Paris] PHP Notice:  Undefined index: markId in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:27:58 Europe/Paris] PHP Notice:  Undefined index: markName in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:29:23 Europe/Paris] PHP Notice:  Undefined index: markName in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:29:23 Europe/Paris] PHP Notice:  Undefined index: markName in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:29:23 Europe/Paris] PHP Notice:  Undefined index: markName in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:29:23 Europe/Paris] PHP Notice:  Undefined index: markName in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[15-Feb-2017 19:29:23 Europe/Paris] PHP Notice:  Undefined index: markName in E:\EasyPHP\data\localweb\clim\equipment\update_product.php on line 49
+[16-Feb-2017 19:03:37 Europe/Paris] PHP Notice:  Undefined index: description in E:\EasyPHP\data\localweb\clim\equipment\class\CategoryManager.php on line 34
+[16-Feb-2017 19:03:37 Europe/Paris] PHP Notice:  Undefined index: frigo in E:\EasyPHP\data\localweb\clim\equipment\class\CategoryManager.php on line 35
+[16-Feb-2017 19:03:37 Europe/Paris] PHP Notice:  Undefined index: description in E:\EasyPHP\data\localweb\clim\equipment\class\CategoryManager.php on line 34
+[16-Feb-2017 19:03:37 Europe/Paris] PHP Notice:  Undefined index: frigo in E:\EasyPHP\data\localweb\clim\equipment\class\CategoryManager.php on line 35
+[16-Feb-2017 19:04:02 Europe/Paris] PHP Notice:  Undefined index: description in E:\EasyPHP\data\localweb\clim\equipment\class\CategoryManager.php on line 34
+[16-Feb-2017 19:04:02 Europe/Paris] PHP Notice:  Undefined index: frigo in E:\EasyPHP\data\localweb\clim\equipment\class\CategoryManager.php on line 35
+[16-Feb-2017 19:04:02 Europe/Paris] PHP Notice:  Undefined index: description in E:\EasyPHP\data\localweb\clim\equipment\class\CategoryManager.php on line 34
+[16-Feb-2017 19:04:02 Europe/Paris] PHP Notice:  Undefined index: frigo in E:\EasyPHP\data\localweb\clim\equipment\class\CategoryManager.php on line 35
+[16-Feb-2017 19:29:48 Europe/Paris] PHP Notice:  Undefined index: frigo in E:\EasyPHP\data\localweb\clim\equipment\update_category.php on line 42
+[16-Feb-2017 19:29:48 Europe/Paris] PHP Notice:  Undefined index: frigo in E:\EasyPHP\data\localweb\clim\equipment\update_category.php on line 43
+[18-Feb-2017 09:46:50 Europe/Paris] PHP Notice:  Undefined offset: 1 in E:\EasyPHP\data\localweb\clim\equipment\class\EquipmentManager.php on line 36
+[18-Feb-2017 09:46:50 Europe/Paris] PHP Notice:  Undefined offset: 3 in E:\EasyPHP\data\localweb\clim\equipment\class\EquipmentManager.php on line 36
+[18-Feb-2017 09:46:50 Europe/Paris] PHP Notice:  Undefined offset: 11 in E:\EasyPHP\data\localweb\clim\equipment\class\EquipmentManager.php on line 36
+[18-Feb-2017 09:46:50 Europe/Paris] PHP Notice:  Undefined index: CL5757 in E:\EasyPHP\data\localweb\clim\equipment\class\EquipmentManager.php on line 36
+[18-Feb-2017 09:46:50 Europe/Paris] PHP Notice:  Undefined index: aefea in E:\EasyPHP\data\localweb\clim\equipment\class\EquipmentManager.php on line 36
+[18-Feb-2017 09:46:50 Europe/Paris] PHP Notice:  Undefined offset: 1 in E:\EasyPHP\data\localweb\clim\equipment\class\EquipmentManager.php on line 36
+[18-Feb-2017 09:46:50 Europe/Paris] PHP Notice:  Undefined index:  in E:\EasyPHP\data\localweb\clim\equipment\class\EquipmentManager.php on line 36
+[18-Feb-2017 09:46:50 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 35
+[18-Feb-2017 09:46:50 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 46
+[18-Feb-2017 09:46:50 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 49
+[18-Feb-2017 09:47:55 Europe/Paris] PHP Notice:  Undefined offset: 1 in E:\EasyPHP\data\localweb\clim\equipment\class\EquipmentManager.php on line 36
+[18-Feb-2017 09:47:55 Europe/Paris] PHP Notice:  Undefined offset: 3 in E:\EasyPHP\data\localweb\clim\equipment\class\EquipmentManager.php on line 36
+[18-Feb-2017 09:47:55 Europe/Paris] PHP Notice:  Undefined offset: 11 in E:\EasyPHP\data\localweb\clim\equipment\class\EquipmentManager.php on line 36
+[18-Feb-2017 09:47:55 Europe/Paris] PHP Notice:  Undefined index: CL5757 in E:\EasyPHP\data\localweb\clim\equipment\class\EquipmentManager.php on line 36
+[18-Feb-2017 09:47:55 Europe/Paris] PHP Notice:  Undefined index: aefea in E:\EasyPHP\data\localweb\clim\equipment\class\EquipmentManager.php on line 36
+[18-Feb-2017 09:47:55 Europe/Paris] PHP Notice:  Undefined offset: 1 in E:\EasyPHP\data\localweb\clim\equipment\class\EquipmentManager.php on line 36
+[18-Feb-2017 09:47:55 Europe/Paris] PHP Notice:  Undefined index:  in E:\EasyPHP\data\localweb\clim\equipment\class\EquipmentManager.php on line 36
+[18-Feb-2017 09:47:55 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 35
+[18-Feb-2017 09:47:55 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 46
+[18-Feb-2017 09:47:55 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 49
+[18-Feb-2017 09:49:55 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 35
+[18-Feb-2017 09:49:55 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 46
+[18-Feb-2017 09:49:55 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 49
+[18-Feb-2017 09:52:49 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 35
+[18-Feb-2017 09:52:49 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 46
+[18-Feb-2017 09:52:49 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 49
+[18-Feb-2017 09:52:49 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 35
+[18-Feb-2017 09:52:49 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 46
+[18-Feb-2017 09:52:49 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 49
+[18-Feb-2017 09:53:23 Europe/Paris] PHP Notice:  Undefined variable: data in E:\EasyPHP\data\localweb\clim\inc\table.php on line 10
+[18-Feb-2017 09:53:36 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 35
+[18-Feb-2017 09:53:36 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 46
+[18-Feb-2017 09:53:36 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 49
+[18-Feb-2017 10:53:19 Europe/Paris] PHP Warning:  include(E:/EasyPHP/data/localweb/clim/equipment/class/EquipementManager.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\equipment\edit_equipment.php on line 21
+[18-Feb-2017 10:53:19 Europe/Paris] PHP Warning:  include(): Failed opening 'E:/EasyPHP/data/localweb/clim/equipment/class/EquipementManager.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\equipment\edit_equipment.php on line 21
+[18-Feb-2017 10:53:19 Europe/Paris] PHP Fatal error:  Class 'EquipmentManager' not found in E:\EasyPHP\data\localweb\clim\equipment\edit_equipment.php on line 22
+[18-Feb-2017 20:18:54 Europe/Paris] PHP Notice:  Undefined variable: markList in E:\EasyPHP\data\localweb\clim\equipment\edit_equipment.php on line 44
+[18-Feb-2017 20:18:54 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\equipment\edit_equipment.php on line 44
+[18-Feb-2017 20:18:54 Europe/Paris] PHP Notice:  Undefined variable: categoryList in E:\EasyPHP\data\localweb\clim\equipment\edit_equipment.php on line 51
+[18-Feb-2017 20:18:54 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\equipment\edit_equipment.php on line 51
+[18-Feb-2017 21:34:07 Europe/Paris] PHP Notice:  Undefined index: ProductId in E:\EasyPHP\data\localweb\clim\equipment\class\Equipment.php on line 12
+[18-Feb-2017 21:34:26 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\equipment\class\Equipment.php on line 13
+[20-Feb-2017 19:29:17 Europe/Paris] PHP Notice:  Undefined index: clientId in E:\EasyPHP\data\localweb\clim\equipment\class\Equipment.php on line 11
+[24-Feb-2017 12:04:09 Europe/Paris] PHP Warning:  include(CONNECT): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\alert\check_alert.php on line 13
+[24-Feb-2017 12:04:09 Europe/Paris] PHP Warning:  include(): Failed opening 'CONNECT' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\alert\check_alert.php on line 13
+[24-Feb-2017 12:04:09 Europe/Paris] PHP Warning:  include(E:/EasyPHP/data/localweb/clim/alert/class/AlertCheckTodayManager): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\alert\check_alert.php on line 14
+[24-Feb-2017 12:04:09 Europe/Paris] PHP Warning:  include(): Failed opening 'E:/EasyPHP/data/localweb/clim/alert/class/AlertCheckTodayManager' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\alert\check_alert.php on line 14
+[24-Feb-2017 12:04:09 Europe/Paris] PHP Fatal error:  Class 'AlertCheckTodayManager' not found in E:\EasyPHP\data\localweb\clim\alert\check_alert.php on line 15
+[24-Feb-2017 12:04:31 Europe/Paris] PHP Warning:  include(E:/EasyPHP/data/localweb/clim/alert/class/AlertCheckTodayManager): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\alert\check_alert.php on line 14
+[24-Feb-2017 12:04:31 Europe/Paris] PHP Warning:  include(): Failed opening 'E:/EasyPHP/data/localweb/clim/alert/class/AlertCheckTodayManager' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\alert\check_alert.php on line 14
+[24-Feb-2017 12:04:31 Europe/Paris] PHP Fatal error:  Class 'AlertCheckTodayManager' not found in E:\EasyPHP\data\localweb\clim\alert\check_alert.php on line 15
+[24-Feb-2017 12:04:57 Europe/Paris] PHP Notice:  Object of class DateInterval could not be converted to int in E:\EasyPHP\data\localweb\clim\alert\check_alert.php on line 33
+[24-Feb-2017 16:20:07 Europe/Paris] PHP Notice:  Undefined variable: dataClient in E:\EasyPHP\data\localweb\clim\alert\index.php on line 44
+[24-Feb-2017 16:21:45 Europe/Paris] PHP Notice:  Undefined variable: dataClient in E:\EasyPHP\data\localweb\clim\alert\index.php on line 44
+[24-Feb-2017 16:22:29 Europe/Paris] PHP Notice:  Undefined variable: dataClient in E:\EasyPHP\data\localweb\clim\alert\index.php on line 44
+[24-Feb-2017 16:22:55 Europe/Paris] PHP Notice:  Undefined variable: dataClient in E:\EasyPHP\data\localweb\clim\alert\index.php on line 44
+[24-Feb-2017 16:23:54 Europe/Paris] PHP Notice:  Undefined variable: dataClient in E:\EasyPHP\data\localweb\clim\alert\index.php on line 44
+[24-Feb-2017 16:39:23 Europe/Paris] PHP Notice:  Undefined variable: dataClient in E:\EasyPHP\data\localweb\clim\alert\index.php on line 44
+[24-Feb-2017 16:42:13 Europe/Paris] PHP Notice:  Undefined variable: dataClient in E:\EasyPHP\data\localweb\clim\alert\index.php on line 44
+[24-Feb-2017 16:43:32 Europe/Paris] PHP Notice:  Undefined variable: dataClient in E:\EasyPHP\data\localweb\clim\alert\index.php on line 44
+[24-Feb-2017 16:44:08 Europe/Paris] PHP Notice:  Undefined variable: dataClient in E:\EasyPHP\data\localweb\clim\alert\index.php on line 45
+[24-Feb-2017 16:44:32 Europe/Paris] PHP Notice:  Undefined variable: dataClient in E:\EasyPHP\data\localweb\clim\alert\index.php on line 45
+[24-Feb-2017 16:44:49 Europe/Paris] PHP Notice:  Undefined variable: dataClient in E:\EasyPHP\data\localweb\clim\alert\index.php on line 45
+[24-Feb-2017 16:45:21 Europe/Paris] PHP Notice:  Undefined variable: dataClient in E:\EasyPHP\data\localweb\clim\alert\index.php on line 45
+[24-Feb-2017 16:47:08 Europe/Paris] PHP Notice:  Undefined variable: dataClient in E:\EasyPHP\data\localweb\clim\alert\index.php on line 47
+[24-Feb-2017 16:55:46 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:55:46 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:55:46 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:55:46 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:55:46 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:55:46 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:55:46 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:55:46 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:55:46 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:55:46 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:56:47 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:56:47 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:56:47 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:56:47 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:56:47 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:56:47 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:56:47 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:56:47 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:56:47 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:56:47 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:57:50 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:57:50 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:57:50 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:57:50 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:57:50 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:57:50 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:57:50 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:57:50 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:57:50 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:57:50 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 38
+[24-Feb-2017 16:59:22 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 39
+[24-Feb-2017 16:59:22 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 39
+[24-Feb-2017 16:59:22 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 39
+[24-Feb-2017 16:59:22 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 39
+[24-Feb-2017 16:59:22 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 39
+[24-Feb-2017 16:59:22 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 39
+[24-Feb-2017 16:59:22 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 39
+[24-Feb-2017 16:59:22 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 39
+[24-Feb-2017 16:59:22 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 39
+[24-Feb-2017 16:59:22 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 39
+[24-Feb-2017 17:18:24 Europe/Paris] PHP Notice:  Undefined index: date in E:\EasyPHP\data\localweb\clim\alert\index.php on line 61
+[24-Feb-2017 17:18:42 Europe/Paris] PHP Notice:  Undefined index: %10 / %06 / %2016 in E:\EasyPHP\data\localweb\clim\alert\index.php on line 61
+[24-Feb-2017 17:19:48 Europe/Paris] PHP Notice:  Undefined index: 10/06/2016 in E:\EasyPHP\data\localweb\clim\alert\index.php on line 61
+[24-Feb-2017 17:56:17 Europe/Paris] PHP Fatal error:  Cannot use object of type DateInterval as array in E:\EasyPHP\data\localweb\clim\alert\index.php on line 83
+[24-Feb-2017 19:28:19 Europe/Paris] PHP Catchable fatal error:  Argument 1 passed to AlertCheckTodayManager::addDateLastCheck() must be an instance of AlertCheckToday, integer given, called in E:\EasyPHP\data\localweb\clim\alert\proc\check_alert.php on line 64 and defined in E:\EasyPHP\data\localweb\clim\alert\class\AlertCheckTodayManager.php on line 43
+[24-Feb-2017 19:32:14 Europe/Paris] PHP Fatal error:  Cannot redeclare class AlertCheckToday in E:\EasyPHP\data\localweb\clim\alert\class\AlertCheckToday.php on line 2
+[24-Feb-2017 19:33:10 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\alert\class\AlertCheckToday.php on line 9
+[24-Feb-2017 21:06:36 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\alert\proc\check_alert.php on line 45
+[24-Feb-2017 21:06:41 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\alert\index.php on line 25
+[24-Feb-2017 21:06:49 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\alert\index.php on line 25
+[24-Feb-2017 21:22:07 Europe/Paris] PHP Warning:  Missing argument 1 for AlertCheckToday::__construct(), called in E:\EasyPHP\data\localweb\clim\alert\proc\check_alert.php on line 28 and defined in E:\EasyPHP\data\localweb\clim\alert\class\AlertCheckToday.php on line 8
+[24-Feb-2017 21:22:07 Europe/Paris] PHP Notice:  Undefined variable: data in E:\EasyPHP\data\localweb\clim\alert\class\AlertCheckToday.php on line 13
+[24-Feb-2017 21:22:42 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\alert\proc\check_alert.php on line 48
+[24-Feb-2017 21:22:42 Europe/Paris] PHP Fatal error:  Cannot redeclare class AlertCheckToday in E:\EasyPHP\data\localweb\clim\alert\class\AlertCheckToday.php on line 2
+[24-Feb-2017 21:25:05 Europe/Paris] PHP Fatal error:  Class 'AlertCheckToday' not found in E:\EasyPHP\data\localweb\clim\alert\proc\check_alert.php on line 81
+[24-Feb-2017 21:25:57 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\alert\index.php on line 25
+[24-Feb-2017 21:36:29 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\alert\proc\check_alert.php on line 49
+[24-Feb-2017 21:37:31 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\alert\proc\check_alert.php on line 49
+[24-Feb-2017 21:58:17 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\alert\proc\check_alert.php on line 51
+[26-Feb-2017 13:13:23 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 117
+[26-Feb-2017 16:03:27 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\class\Generic.php on line 91
+[26-Feb-2017 16:06:37 Europe/Paris] PHP Notice:  Undefined variable: listType in E:\EasyPHP\data\localweb\clim\fluido\new_bottle.php on line 19
+[26-Feb-2017 16:19:34 Europe/Paris] PHP Notice:  Undefined variable: GazList in E:\EasyPHP\data\localweb\clim\fluido\new_bottle.php on line 21
+[26-Feb-2017 17:27:30 Europe/Paris] PHP Warning:  include(class/Bottle.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\fluido\proc\addBottle.php on line 15
+[26-Feb-2017 17:27:30 Europe/Paris] PHP Warning:  include(): Failed opening 'class/Bottle.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\fluido\proc\addBottle.php on line 15
+[26-Feb-2017 17:27:30 Europe/Paris] PHP Fatal error:  Class 'Bottle' not found in E:\EasyPHP\data\localweb\clim\fluido\proc\addBottle.php on line 16
+[26-Feb-2017 17:29:37 Europe/Paris] PHP Warning:  include(class/Bottle.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\fluido\proc\addBottle.php on line 15
+[26-Feb-2017 17:29:37 Europe/Paris] PHP Warning:  include(): Failed opening 'class/Bottle.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\fluido\proc\addBottle.php on line 15
+[26-Feb-2017 17:29:37 Europe/Paris] PHP Fatal error:  Class 'Bottle' not found in E:\EasyPHP\data\localweb\clim\fluido\proc\addBottle.php on line 16
+[28-Feb-2017 21:16:54 Europe/Paris] PHP Fatal error:  Class 'Generic' not found in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 2
+[28-Feb-2017 21:22:58 Europe/Paris] PHP Fatal error:  Class 'Generic' not found in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 2
+[28-Feb-2017 21:27:31 Europe/Paris] PHP Fatal error:  Call to a member function format() on a non-object in E:\EasyPHP\data\localweb\clim\fluido\class\Bottle.php on line 63
+[28-Feb-2017 21:33:44 Europe/Paris] PHP Notice:  Undefined offset: 2 in E:\EasyPHP\data\localweb\clim\fluido\class\Bottle.php on line 66
+[28-Feb-2017 21:33:44 Europe/Paris] PHP Notice:  Undefined offset: 1 in E:\EasyPHP\data\localweb\clim\fluido\class\Bottle.php on line 66
+[28-Feb-2017 21:33:44 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in E:\EasyPHP\data\localweb\clim\fluido\class\Bottle.php on line 67
+[28-Feb-2017 21:41:15 Europe/Paris] PHP Fatal error:  Call to a member function format() on a non-object in E:\EasyPHP\data\localweb\clim\fluido\class\Bottle.php on line 72
+[28-Feb-2017 21:42:48 Europe/Paris] PHP Warning:  preg_match(): Unknown modifier '.' in E:\EasyPHP\data\localweb\clim\fluido\class\Bottle.php on line 63
+[28-Feb-2017 21:42:59 Europe/Paris] PHP Fatal error:  Call to undefined method BottleManager::getData() in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 52
+[28-Feb-2017 21:43:28 Europe/Paris] PHP Warning:  preg_match(): Unknown modifier '.' in E:\EasyPHP\data\localweb\clim\fluido\class\Bottle.php on line 63
+[28-Feb-2017 21:43:48 Europe/Paris] PHP Warning:  preg_match(): Unknown modifier '\' in E:\EasyPHP\data\localweb\clim\fluido\class\Bottle.php on line 63
+[28-Feb-2017 21:45:03 Europe/Paris] PHP Warning:  preg_match(): Unknown modifier ']' in E:\EasyPHP\data\localweb\clim\fluido\class\Bottle.php on line 63
+[28-Feb-2017 21:45:47 Europe/Paris] PHP Warning:  preg_match(): Unknown modifier ']' in E:\EasyPHP\data\localweb\clim\fluido\class\Bottle.php on line 63
+[28-Feb-2017 21:46:29 Europe/Paris] PHP Warning:  preg_match(): Unknown modifier ')' in E:\EasyPHP\data\localweb\clim\fluido\class\Bottle.php on line 63
+[28-Feb-2017 21:58:00 Europe/Paris] PHP Warning:  preg_replace(): No ending delimiter '-' found in E:\EasyPHP\data\localweb\clim\fluido\class\Bottle.php on line 67
+[28-Feb-2017 21:58:00 Europe/Paris] PHP Notice:  Undefined offset: 2 in E:\EasyPHP\data\localweb\clim\fluido\class\Bottle.php on line 68
+[28-Feb-2017 21:58:00 Europe/Paris] PHP Notice:  Undefined offset: 1 in E:\EasyPHP\data\localweb\clim\fluido\class\Bottle.php on line 68
+[28-Feb-2017 21:58:00 Europe/Paris] PHP Warning:  checkdate() expects parameter 2 to be long, string given in E:\EasyPHP\data\localweb\clim\fluido\class\Bottle.php on line 69
+[01-Mar-2017 18:39:45 Europe/Paris] PHP Fatal error:  Call to undefined method BottleManager::getData() in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 52
+[01-Mar-2017 18:44:02 Europe/Paris] PHP Fatal error:  Call to undefined method BottleManager::getData() in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 52
+[01-Mar-2017 18:45:18 Europe/Paris] PHP Notice:  Undefined variable: BottleManager in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 102
+[01-Mar-2017 18:45:18 Europe/Paris] PHP Fatal error:  Call to a member function getType() on a non-object in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 102
+[01-Mar-2017 20:28:52 Europe/Paris] PHP Catchable fatal error:  Argument 1 passed to BottleManager::getBottle() must be of the type array, string given, called in E:\EasyPHP\data\localweb\clim\fluido\edit_bottle.php on line 22 and defined in E:\EasyPHP\data\localweb\clim\fluido\class\BottleManager.php on line 85
+[01-Mar-2017 20:33:18 Europe/Paris] PHP Notice:  Undefined variable: typeBottleList in E:\EasyPHP\data\localweb\clim\fluido\edit_bottle.php on line 37
+[01-Mar-2017 20:33:18 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\fluido\edit_bottle.php on line 37
+[01-Mar-2017 20:33:18 Europe/Paris] PHP Notice:  Undefined variable: gazList in E:\EasyPHP\data\localweb\clim\fluido\edit_bottle.php on line 48
+[01-Mar-2017 20:33:18 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\fluido\edit_bottle.php on line 48
+[01-Mar-2017 20:33:18 Europe/Paris] PHP Notice:  Undefined variable: fournisseurList in E:\EasyPHP\data\localweb\clim\fluido\edit_bottle.php on line 57
+[01-Mar-2017 20:33:18 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\fluido\edit_bottle.php on line 57
+[01-Mar-2017 20:34:29 Europe/Paris] PHP Fatal error:  Class 'Generic' not found in E:\EasyPHP\data\localweb\clim\fluido\edit_bottle.php on line 26
+[01-Mar-2017 20:38:56 Europe/Paris] PHP Notice:  Undefined index: typeId in E:\EasyPHP\data\localweb\clim\fluido\edit_bottle.php on line 53
+[01-Mar-2017 20:38:56 Europe/Paris] PHP Notice:  Undefined index: typeId in E:\EasyPHP\data\localweb\clim\fluido\edit_bottle.php on line 53
+[01-Mar-2017 20:38:56 Europe/Paris] PHP Notice:  Undefined index: typeId in E:\EasyPHP\data\localweb\clim\fluido\edit_bottle.php on line 53
+[01-Mar-2017 20:51:27 Europe/Paris] PHP Notice:  Undefined index: dateOSell in E:\EasyPHP\data\localweb\clim\fluido\edit_bottle.php on line 32
+[01-Mar-2017 21:02:46 Europe/Paris] PHP Notice:  Undefined variable: dateOfBuy in E:\EasyPHP\data\localweb\clim\fluido\class\Bottle.php on line 89
+[01-Mar-2017 21:22:45 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\fluido\class\Bottle.php on line 25
+[04-Mar-2017 11:01:34 Europe/Paris] PHP Warning:  include(../class/GazManager.php.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\fluido\proc\addGaz.php on line 26
+[04-Mar-2017 11:01:34 Europe/Paris] PHP Warning:  include(): Failed opening '../class/GazManager.php.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\fluido\proc\addGaz.php on line 26
+[04-Mar-2017 11:01:34 Europe/Paris] PHP Fatal error:  Class 'GazManager' not found in E:\EasyPHP\data\localweb\clim\fluido\proc\addGaz.php on line 27
+[04-Mar-2017 11:03:38 Europe/Paris] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in E:\EasyPHP\data\localweb\clim\fluido\proc\addGaz.php on line 22
+[04-Mar-2017 11:03:38 Europe/Paris] PHP Warning:  include(http://127.0.0.1/clim/fluido/class/Gaz.php): failed to open stream: no suitable wrapper could be found in E:\EasyPHP\data\localweb\clim\fluido\proc\addGaz.php on line 22
+[04-Mar-2017 11:03:38 Europe/Paris] PHP Warning:  include(): Failed opening 'http://127.0.0.1/clim/fluido/class/Gaz.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\fluido\proc\addGaz.php on line 22
+[04-Mar-2017 11:03:38 Europe/Paris] PHP Fatal error:  Class 'Gaz' not found in E:\EasyPHP\data\localweb\clim\fluido\proc\addGaz.php on line 23
+[04-Mar-2017 11:04:30 Europe/Paris] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in E:\EasyPHP\data\localweb\clim\fluido\proc\addGaz.php on line 22
+[04-Mar-2017 11:04:30 Europe/Paris] PHP Warning:  include(http://127.0.0.1/clim/fluido/class/Gaz.php): failed to open stream: no suitable wrapper could be found in E:\EasyPHP\data\localweb\clim\fluido\proc\addGaz.php on line 22
+[04-Mar-2017 11:04:30 Europe/Paris] PHP Warning:  include(): Failed opening 'http://127.0.0.1/clim/fluido/class/Gaz.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\fluido\proc\addGaz.php on line 22
+[04-Mar-2017 11:04:30 Europe/Paris] PHP Fatal error:  Class 'Gaz' not found in E:\EasyPHP\data\localweb\clim\fluido\proc\addGaz.php on line 23
+[04-Mar-2017 11:06:48 Europe/Paris] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in E:\EasyPHP\data\localweb\clim\fluido\proc\addGaz.php on line 22
+[04-Mar-2017 11:06:48 Europe/Paris] PHP Warning:  include(http://127.0.0.1/clim/fluido/class/Gaz.php): failed to open stream: no suitable wrapper could be found in E:\EasyPHP\data\localweb\clim\fluido\proc\addGaz.php on line 22
+[04-Mar-2017 11:06:48 Europe/Paris] PHP Warning:  include(): Failed opening 'http://127.0.0.1/clim/fluido/class/Gaz.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\fluido\proc\addGaz.php on line 22
+[04-Mar-2017 11:06:48 Europe/Paris] PHP Fatal error:  Class 'Gaz' not found in E:\EasyPHP\data\localweb\clim\fluido\proc\addGaz.php on line 23
+[04-Mar-2017 13:31:21 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\GazManager.php on line 69
+[04-Mar-2017 13:31:30 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\GazManager.php on line 69
+[04-Mar-2017 13:31:50 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\GazManager.php on line 69
+[04-Mar-2017 13:32:08 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\GazManager.php on line 69
+[04-Mar-2017 14:29:08 Europe/Paris] PHP Catchable fatal error:  Argument 1 passed to GazManager::deleteGaz() must be an instance of Gaz, string given, called in E:\EasyPHP\data\localweb\clim\fluido\proc\deleteGaz.php on line 28 and defined in E:\EasyPHP\data\localweb\clim\fluido\class\GazManager.php on line 53
+[04-Mar-2017 14:30:13 Europe/Paris] PHP Catchable fatal error:  Argument 1 passed to GazManager::deleteGaz() must be an instance of Gaz, string given, called in E:\EasyPHP\data\localweb\clim\fluido\proc\deleteGaz.php on line 28 and defined in E:\EasyPHP\data\localweb\clim\fluido\class\GazManager.php on line 53
+[07-Mar-2017 19:52:27 Europe/Paris] PHP Notice:  Undefined variable: data in E:\EasyPHP\data\localweb\clim\fluido\move.php on line 65
+[10-Mar-2017 18:16:34 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 20
+[10-Mar-2017 18:16:35 Europe/Paris] PHP Notice:  Undefined index: city in E:\EasyPHP\data\localweb\clim\client\proc\seek_client.php on line 23
+[10-Mar-2017 19:02:38 Europe/Paris] PHP Notice:  Undefined index: firstName in E:\EasyPHP\data\localweb\clim\fluido\add_move.php on line 95
+[10-Mar-2017 19:02:38 Europe/Paris] PHP Notice:  Undefined index: firstName in E:\EasyPHP\data\localweb\clim\fluido\add_move.php on line 95
+[10-Mar-2017 20:37:06 Europe/Paris] PHP Notice:  Undefined index: name in E:\EasyPHP\data\localweb\clim\equipment\proc\getEquipment.php on line 22
+[10-Mar-2017 20:37:11 Europe/Paris] PHP Notice:  Undefined index: name in E:\EasyPHP\data\localweb\clim\equipment\proc\getEquipment.php on line 22
+[10-Mar-2017 20:38:21 Europe/Paris] PHP Notice:  Undefined index: name in E:\EasyPHP\data\localweb\clim\equipment\proc\getEquipment.php on line 22
+[10-Mar-2017 20:41:17 Europe/Paris] PHP Notice:  Undefined index: name in E:\EasyPHP\data\localweb\clim\equipment\proc\getEquipment.php on line 22
+[10-Mar-2017 20:41:21 Europe/Paris] PHP Notice:  Undefined index: name in E:\EasyPHP\data\localweb\clim\equipment\proc\getEquipment.php on line 22
+[10-Mar-2017 21:10:49 Europe/Paris] PHP Notice:  Undefined index: name in E:\EasyPHP\data\localweb\clim\equipment\proc\getEquipment.php on line 22
+[11-Mar-2017 15:30:13 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\fluido\class\Bottle.php on line 25
+[13-Mar-2017 19:49:14 Europe/Paris] PHP Fatal error:  Class 'Move' not found in E:\EasyPHP\data\localweb\clim\fluido\proc\addMove.php on line 75
+[16-Mar-2017 19:31:37 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in E:\EasyPHP\data\localweb\clim\fluido\proc\listMove.php on line 26
+[16-Mar-2017 19:31:37 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in E:\EasyPHP\data\localweb\clim\fluido\proc\listMove.php on line 27
+[16-Mar-2017 19:31:38 Europe/Paris] PHP Notice:  Undefined index: start in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 148
+[16-Mar-2017 19:31:38 Europe/Paris] PHP Notice:  Undefined index: end in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 149
+[16-Mar-2017 19:31:38 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 199
+[16-Mar-2017 19:33:04 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in E:\EasyPHP\data\localweb\clim\fluido\proc\listMove.php on line 26
+[16-Mar-2017 19:33:04 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in E:\EasyPHP\data\localweb\clim\fluido\proc\listMove.php on line 27
+[16-Mar-2017 19:33:05 Europe/Paris] PHP Notice:  Undefined index: start in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 148
+[16-Mar-2017 19:33:05 Europe/Paris] PHP Notice:  Undefined index: end in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 149
+[16-Mar-2017 19:33:05 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 199
+[16-Mar-2017 19:33:19 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in E:\EasyPHP\data\localweb\clim\fluido\proc\listMove.php on line 26
+[16-Mar-2017 19:33:19 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in E:\EasyPHP\data\localweb\clim\fluido\proc\listMove.php on line 27
+[16-Mar-2017 19:33:20 Europe/Paris] PHP Notice:  Undefined index: start in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 148
+[16-Mar-2017 19:33:20 Europe/Paris] PHP Notice:  Undefined index: end in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 149
+[16-Mar-2017 19:33:20 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 199
+[16-Mar-2017 19:33:45 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in E:\EasyPHP\data\localweb\clim\fluido\proc\listMove.php on line 26
+[16-Mar-2017 19:33:45 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in E:\EasyPHP\data\localweb\clim\fluido\proc\listMove.php on line 27
+[16-Mar-2017 19:33:46 Europe/Paris] PHP Notice:  Undefined index: start in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 148
+[16-Mar-2017 19:33:46 Europe/Paris] PHP Notice:  Undefined index: end in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 149
+[16-Mar-2017 19:33:46 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 199
+[16-Mar-2017 19:33:47 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in E:\EasyPHP\data\localweb\clim\fluido\proc\listMove.php on line 26
+[16-Mar-2017 19:33:47 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in E:\EasyPHP\data\localweb\clim\fluido\proc\listMove.php on line 27
+[16-Mar-2017 19:33:48 Europe/Paris] PHP Notice:  Undefined index: start in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 148
+[16-Mar-2017 19:33:48 Europe/Paris] PHP Notice:  Undefined index: end in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 149
+[16-Mar-2017 19:33:48 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 199
+[16-Mar-2017 19:33:50 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in E:\EasyPHP\data\localweb\clim\fluido\proc\listMove.php on line 26
+[16-Mar-2017 19:33:50 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in E:\EasyPHP\data\localweb\clim\fluido\proc\listMove.php on line 27
+[16-Mar-2017 19:33:51 Europe/Paris] PHP Notice:  Undefined index: start in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 148
+[16-Mar-2017 19:33:51 Europe/Paris] PHP Notice:  Undefined index: end in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 149
+[16-Mar-2017 19:33:51 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 199
+[16-Mar-2017 20:06:43 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in E:\EasyPHP\data\localweb\clim\fluido\proc\listMove.php on line 27
+[16-Mar-2017 20:06:43 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in E:\EasyPHP\data\localweb\clim\fluido\proc\listMove.php on line 28
+[16-Mar-2017 20:06:44 Europe/Paris] PHP Notice:  Undefined index: start in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 148
+[16-Mar-2017 20:06:44 Europe/Paris] PHP Notice:  Undefined index: end in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 149
+[16-Mar-2017 20:06:44 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 199
+[16-Mar-2017 20:10:02 Europe/Paris] PHP Notice:  Undefined index: start in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 148
+[16-Mar-2017 20:10:02 Europe/Paris] PHP Notice:  Undefined index: end in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 149
+[16-Mar-2017 20:10:02 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 199
+[16-Mar-2017 21:07:45 Europe/Paris] PHP Notice:  Undefined variable: dateOfSell in E:\EasyPHP\data\localweb\clim\fluido\proc\listMove.php on line 31
+[16-Mar-2017 21:08:18 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 199
+[16-Mar-2017 21:08:22 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 199
+[16-Mar-2017 21:10:58 Europe/Paris] PHP Notice:  Undefined variable: start in E:\EasyPHP\data\localweb\clim\fluido\proc\listMove.php on line 40
+[16-Mar-2017 21:10:58 Europe/Paris] PHP Notice:  Undefined variable: end in E:\EasyPHP\data\localweb\clim\fluido\proc\listMove.php on line 40
+[16-Mar-2017 21:10:58 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 199
+[16-Mar-2017 21:11:42 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 199
+[16-Mar-2017 21:12:15 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 199
+[16-Mar-2017 21:12:39 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 199
+[16-Mar-2017 21:13:28 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 199
+[17-Mar-2017 19:11:00 Europe/Paris] PHP Warning:  include(E:/EasyPHP/data/localweb/clim/class/DateBuilde.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\fluido\proc\addMove.php on line 34
+[17-Mar-2017 19:11:00 Europe/Paris] PHP Warning:  include(): Failed opening 'E:/EasyPHP/data/localweb/clim/class/DateBuilde.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\fluido\proc\addMove.php on line 34
+[17-Mar-2017 19:11:00 Europe/Paris] PHP Fatal error:  Class 'DateBuilder' not found in E:\EasyPHP\data\localweb\clim\fluido\proc\addMove.php on line 35
+[17-Mar-2017 19:11:08 Europe/Paris] PHP Warning:  include(E:/EasyPHP/data/localweb/clim/class/DateBuilde.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\fluido\proc\addMove.php on line 34
+[17-Mar-2017 19:11:08 Europe/Paris] PHP Warning:  include(): Failed opening 'E:/EasyPHP/data/localweb/clim/class/DateBuilde.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\fluido\proc\addMove.php on line 34
+[17-Mar-2017 19:11:08 Europe/Paris] PHP Fatal error:  Class 'DateBuilder' not found in E:\EasyPHP\data\localweb\clim\fluido\proc\addMove.php on line 35
+[17-Mar-2017 19:11:27 Europe/Paris] PHP Notice:  Undefined index: dateOfBuy in E:\EasyPHP\data\localweb\clim\fluido\proc\addMove.php on line 46
+[17-Mar-2017 19:12:11 Europe/Paris] PHP Notice:  Undefined index: dateOfBuy in E:\EasyPHP\data\localweb\clim\fluido\proc\addMove.php on line 47
+[20-Mar-2017 19:12:43 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 43
+[20-Mar-2017 19:12:43 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 43
+[20-Mar-2017 19:13:25 Europe/Paris] PHP Notice:  Undefined variable: gazList in E:\EasyPHP\data\localweb\clim\fluido\proc\seekBilan.php on line 38
+[20-Mar-2017 19:13:25 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 43
+[20-Mar-2017 19:13:25 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 43
+[20-Mar-2017 19:13:37 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 43
+[20-Mar-2017 19:13:37 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\inc\table.php on line 43
+[20-Mar-2017 19:18:49 Europe/Paris] PHP Fatal error:  Unsupported operand types in E:\EasyPHP\data\localweb\clim\fluido\proc\seekBilan.php on line 39
+[20-Mar-2017 19:23:07 Europe/Paris] PHP Notice:  Undefined variable: data in E:\EasyPHP\data\localweb\clim\inc\table.php on line 10
+[20-Mar-2017 19:26:39 Europe/Paris] PHP Warning:  array_merge(): Argument #2 is not an array in E:\EasyPHP\data\localweb\clim\fluido\proc\seekBilan.php on line 39
+[20-Mar-2017 19:27:02 Europe/Paris] PHP Warning:  array_merge(): Argument #2 is not an array in E:\EasyPHP\data\localweb\clim\fluido\proc\seekBilan.php on line 40
+[20-Mar-2017 19:28:11 Europe/Paris] PHP Warning:  array_merge(): Argument #2 is not an array in E:\EasyPHP\data\localweb\clim\fluido\proc\seekBilan.php on line 40
+[20-Mar-2017 20:13:05 Europe/Paris] PHP Fatal error:  Unsupported operand types in E:\EasyPHP\data\localweb\clim\fluido\proc\seekBilan.php on line 40
+[20-Mar-2017 20:14:22 Europe/Paris] PHP Notice:  Undefined variable: data in E:\EasyPHP\data\localweb\clim\fluido\proc\seekBilan.php on line 43
+[20-Mar-2017 20:14:22 Europe/Paris] PHP Notice:  Undefined variable: data in E:\EasyPHP\data\localweb\clim\inc\table.php on line 10
+[20-Mar-2017 21:13:41 Europe/Paris] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in E:\EasyPHP\data\localweb\clim\fluido\proc\seekBilan.php on line 41
+[20-Mar-2017 21:19:44 Europe/Paris] PHP Warning:  array_replace_recursive(): Argument #2 is not an array in E:\EasyPHP\data\localweb\clim\fluido\proc\seekBilan.php on line 41
+[20-Mar-2017 21:19:45 Europe/Paris] PHP Warning:  sort() expects parameter 1 to be array, null given in E:\EasyPHP\data\localweb\clim\fluido\proc\seekBilan.php on line 29
+[20-Mar-2017 21:20:23 Europe/Paris] PHP Warning:  sort() expects parameter 1 to be array, null given in E:\EasyPHP\data\localweb\clim\fluido\proc\seekBilan.php on line 29
+[20-Mar-2017 21:25:56 Europe/Paris] PHP Notice:  Undefined variable: data in E:\EasyPHP\data\localweb\clim\inc\table.php on line 10
+[20-Mar-2017 21:25:57 Europe/Paris] PHP Notice:  Undefined variable: data in E:\EasyPHP\data\localweb\clim\inc\table.php on line 10
+[20-Mar-2017 22:06:44 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 6
+[20-Mar-2017 22:06:44 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 26
+[20-Mar-2017 22:06:44 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 26
+[20-Mar-2017 22:06:44 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[20-Mar-2017 22:06:44 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[20-Mar-2017 22:06:44 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[20-Mar-2017 22:06:44 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[20-Mar-2017 22:06:44 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[20-Mar-2017 22:06:44 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[20-Mar-2017 22:06:44 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[20-Mar-2017 22:06:44 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[20-Mar-2017 22:06:44 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[20-Mar-2017 22:06:44 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[20-Mar-2017 22:17:06 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 6
+[20-Mar-2017 22:17:06 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 26
+[20-Mar-2017 22:17:06 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 26
+[20-Mar-2017 22:17:06 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[20-Mar-2017 22:17:06 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[20-Mar-2017 22:17:06 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[20-Mar-2017 22:17:06 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[20-Mar-2017 22:17:06 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[20-Mar-2017 22:17:06 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[20-Mar-2017 22:17:06 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[20-Mar-2017 22:17:06 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[20-Mar-2017 22:17:06 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[20-Mar-2017 22:17:06 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[20-Mar-2017 22:25:27 Europe/Paris] PHP Notice:  Undefined index: recup in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 54
+[20-Mar-2017 22:25:27 Europe/Paris] PHP Notice:  Undefined index: charge in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 51
+[20-Mar-2017 22:30:23 Europe/Paris] PHP Notice:  Undefined index: recup in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 58
+[20-Mar-2017 22:30:23 Europe/Paris] PHP Notice:  Undefined index: charge in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 55
+[20-Mar-2017 22:31:22 Europe/Paris] PHP Notice:  Undefined index: recup in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 58
+[20-Mar-2017 22:31:22 Europe/Paris] PHP Notice:  Undefined index: charge in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 55
+[20-Mar-2017 22:33:03 Europe/Paris] PHP Notice:  Undefined index: recup in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 63
+[20-Mar-2017 22:33:03 Europe/Paris] PHP Notice:  Undefined index: charge in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 60
+[20-Mar-2017 22:33:24 Europe/Paris] PHP Notice:  Undefined index: recup in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 63
+[20-Mar-2017 22:33:24 Europe/Paris] PHP Notice:  Undefined index: charge in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 60
+[20-Mar-2017 22:48:16 Europe/Paris] PHP Notice:  Undefined variable: key in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 53
+[20-Mar-2017 22:48:16 Europe/Paris] PHP Notice:  Undefined variable: key in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 54
+[21-Mar-2017 18:40:12 Europe/Paris] PHP Warning:  include(E:/EasyPHP/data/localweb/clim/fluido/class/StockManager.php): failed to open stream: No such file or directory in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 54
+[21-Mar-2017 18:40:12 Europe/Paris] PHP Warning:  include(): Failed opening 'E:/EasyPHP/data/localweb/clim/fluido/class/StockManager.php' for inclusion (include_path='.;C:\php\pear') in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 54
+[21-Mar-2017 18:40:12 Europe/Paris] PHP Fatal error:  Class 'StockGazManager' not found in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 55
+[21-Mar-2017 20:07:29 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 6
+[21-Mar-2017 20:07:29 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 26
+[21-Mar-2017 20:07:29 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 26
+[21-Mar-2017 20:07:29 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:07:29 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:07:29 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:07:29 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:07:29 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:07:29 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:48:17 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 6
+[21-Mar-2017 20:48:17 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 26
+[21-Mar-2017 20:48:17 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 26
+[21-Mar-2017 20:48:17 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:48:17 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:48:17 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:48:17 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:48:17 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:48:17 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:48:17 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:48:17 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:49:51 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 6
+[21-Mar-2017 20:49:51 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 26
+[21-Mar-2017 20:49:51 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 26
+[21-Mar-2017 20:49:51 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:49:51 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:49:51 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:49:51 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:49:51 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:49:51 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:49:51 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:49:51 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:52:53 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 6
+[21-Mar-2017 20:52:53 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 26
+[21-Mar-2017 20:52:53 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 26
+[21-Mar-2017 20:52:53 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:52:53 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:52:53 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:52:53 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:52:53 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:52:53 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:52:53 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[21-Mar-2017 20:52:53 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[22-Mar-2017 18:39:55 Europe/Paris] PHP Fatal error:  Unsupported operand types in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 113
+[22-Mar-2017 18:43:34 Europe/Paris] PHP Notice:  Undefined index: gazId in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 113
+[22-Mar-2017 18:43:34 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 199
+[22-Mar-2017 18:56:06 Europe/Paris] PHP Notice:  Undefined index:  in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 113
+[22-Mar-2017 18:56:06 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 199
+[22-Mar-2017 18:58:07 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 199
+[22-Mar-2017 18:59:46 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 200
+[22-Mar-2017 19:00:37 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 200
+[22-Mar-2017 19:00:55 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 200
+[22-Mar-2017 19:01:10 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 200
+[22-Mar-2017 19:01:27 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 200
+[22-Mar-2017 19:01:56 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 200
+[22-Mar-2017 19:02:37 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 201
+[22-Mar-2017 19:04:31 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 202
+[22-Mar-2017 19:05:28 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 203
+[22-Mar-2017 19:12:51 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\fluido\class\MoveManager.php on line 208
+[22-Mar-2017 21:10:31 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 150
+[22-Mar-2017 21:10:31 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 150
+[22-Mar-2017 21:10:31 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 150
+[26-Mar-2017 14:54:38 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\fluido\proc\updateBilan.php on line 38
+[26-Mar-2017 14:55:51 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\fluido\proc\updateBilan.php on line 38
+[26-Mar-2017 14:56:19 Europe/Paris] PHP Notice:  Undefined index: id in E:\EasyPHP\data\localweb\clim\fluido\proc\updateBilan.php on line 39
+[26-Mar-2017 14:57:12 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 43
+[26-Mar-2017 14:57:12 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 43
+[26-Mar-2017 14:57:12 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 54
+[26-Mar-2017 14:57:12 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 57
+[26-Mar-2017 14:57:12 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 43
+[26-Mar-2017 14:57:12 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 43
+[26-Mar-2017 14:57:12 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 54
+[26-Mar-2017 14:57:12 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 57
+[26-Mar-2017 14:57:12 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 43
+[26-Mar-2017 14:57:12 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 43
+[26-Mar-2017 14:57:12 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 54
+[26-Mar-2017 14:57:12 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 57
+[26-Mar-2017 14:57:12 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 43
+[26-Mar-2017 14:57:12 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 43
+[26-Mar-2017 14:57:12 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 54
+[26-Mar-2017 14:57:12 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 57
+[26-Mar-2017 14:57:12 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 43
+[26-Mar-2017 14:57:12 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 43
+[26-Mar-2017 14:57:12 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 54
+[26-Mar-2017 14:57:12 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\inc\table.php on line 57
+[26-Mar-2017 15:21:15 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 91
+[26-Mar-2017 15:21:55 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 91
+[26-Mar-2017 15:21:55 Europe/Paris] PHP Warning:  Illegal string offset 'id' in E:\EasyPHP\data\localweb\clim\fluido\proc\listBottle.php on line 91
+[29-Mar-2017 21:18:43 Europe/Paris] PHP Notice:  Undefined variable: stmnt in E:\EasyPHP\data\localweb\clim\historique\class\HistoryManager.php on line 19
+[29-Mar-2017 21:18:43 Europe/Paris] PHP Fatal error:  Call to a member function bindParam() on a non-object in E:\EasyPHP\data\localweb\clim\historique\class\HistoryManager.php on line 19
+[29-Mar-2017 21:19:42 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in E:\EasyPHP\data\localweb\clim\historique\class\HistoryManager.php on line 20
+[29-Mar-2017 21:20:12 Europe/Paris] PHP Fatal error:  Call to undefined method PDOStatement::lastInsertId() in E:\EasyPHP\data\localweb\clim\historique\class\HistoryManager.php on line 32
+[29-Mar-2017 21:29:15 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\historique\class\HistoryManager.php on line 35
+[29-Mar-2017 21:30:25 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\historique\class\HistoryManager.php on line 36
+[29-Mar-2017 21:32:42 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\historique\class\HistoryManager.php on line 36
+[29-Mar-2017 21:34:52 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\historique\class\HistoryManager.php on line 36
+[29-Mar-2017 21:35:44 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\historique\class\HistoryManager.php on line 36
+[29-Mar-2017 21:37:45 Europe/Paris] PHP Notice:  Undefined index: selected in E:\EasyPHP\data\localweb\clim\historique\class\History.php on line 12
+[29-Mar-2017 21:38:10 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\historique\class\HistoryManager.php on line 41
+[29-Mar-2017 21:38:10 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\historique\class\HistoryManager.php on line 41
+[29-Mar-2017 21:38:10 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\historique\class\HistoryManager.php on line 41
+[29-Mar-2017 21:38:10 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\historique\class\HistoryManager.php on line 41
+[29-Mar-2017 21:38:10 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\historique\class\HistoryManager.php on line 41
+[29-Mar-2017 21:38:10 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\historique\class\HistoryManager.php on line 41
+[29-Mar-2017 21:38:10 Europe/Paris] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in E:\EasyPHP\data\localweb\clim\historique\class\HistoryManager.php on line 41
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Notice:  Undefined index: date in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 46
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 6
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 26
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 26
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Notice:  Undefined variable: tabTitle in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:23 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\inc\table.php on line 44
+[01-Apr-2017 15:52:45 Europe/Paris] PHP Notice:  Undefined index: date in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 46
+[01-Apr-2017 16:07:30 Europe/Paris] PHP Warning:  Illegal string offset 'date' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 37
+[01-Apr-2017 16:07:30 Europe/Paris] PHP Warning:  date() expects parameter 2 to be long, string given in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 37
+[01-Apr-2017 16:07:30 Europe/Paris] PHP Warning:  Illegal string offset 'date' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 37
+[01-Apr-2017 16:07:30 Europe/Paris] PHP Warning:  date() expects parameter 2 to be long, string given in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 37
+[01-Apr-2017 16:08:14 Europe/Paris] PHP Warning:  date() expects parameter 2 to be long, string given in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 37
+[01-Apr-2017 16:08:14 Europe/Paris] PHP Warning:  date() expects parameter 2 to be long, string given in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 37
+[01-Apr-2017 16:08:38 Europe/Paris] PHP Warning:  date() expects parameter 2 to be long, string given in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 38
+[01-Apr-2017 16:08:38 Europe/Paris] PHP Warning:  date() expects parameter 2 to be long, string given in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 38
+[01-Apr-2017 16:09:19 Europe/Paris] PHP Warning:  Illegal string offset 'date' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 38
+[01-Apr-2017 16:09:19 Europe/Paris] PHP Warning:  date() expects parameter 2 to be long, string given in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 38
+[01-Apr-2017 16:09:19 Europe/Paris] PHP Warning:  Illegal string offset 'date' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 38
+[01-Apr-2017 16:09:19 Europe/Paris] PHP Warning:  date() expects parameter 2 to be long, string given in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 38
+[01-Apr-2017 16:09:34 Europe/Paris] PHP Warning:  Illegal string offset 'date' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 37
+[01-Apr-2017 16:09:34 Europe/Paris] PHP Warning:  Illegal string offset 'date' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 38
+[01-Apr-2017 16:09:34 Europe/Paris] PHP Warning:  date() expects parameter 2 to be long, string given in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 38
+[01-Apr-2017 16:09:34 Europe/Paris] PHP Warning:  Illegal string offset 'date' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 37
+[01-Apr-2017 16:09:34 Europe/Paris] PHP Warning:  Illegal string offset 'date' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 38
+[01-Apr-2017 16:09:34 Europe/Paris] PHP Warning:  date() expects parameter 2 to be long, string given in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 38
+[01-Apr-2017 16:10:57 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 35
+[01-Apr-2017 16:10:57 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 35
+[01-Apr-2017 16:13:09 Europe/Paris] PHP Warning:  Illegal offset type in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 41
+[01-Apr-2017 16:13:09 Europe/Paris] PHP Warning:  Illegal offset type in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 41
+[01-Apr-2017 17:50:40 Europe/Paris] PHP Notice:  Undefined offset: 8 in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 47
+[01-Apr-2017 17:50:40 Europe/Paris] PHP Notice:  Undefined offset: 7 in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 47
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 50
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: repere in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 51
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 56
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: repere in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 57
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 56
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: repere in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 57
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 56
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: repere in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 57
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 56
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: repere in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 57
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 56
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: repere in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 57
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 56
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: repere in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 57
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 50
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: repere in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 51
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 56
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: repere in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 57
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 56
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: repere in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 57
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 56
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: repere in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 57
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 56
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: repere in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 57
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 56
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: repere in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 57
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 56
+[01-Apr-2017 17:58:42 Europe/Paris] PHP Notice:  Undefined index: repere in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 57
+[01-Apr-2017 18:50:09 Europe/Paris] PHP Notice:  Undefined offset: 9 in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 71
+[01-Apr-2017 18:50:09 Europe/Paris] PHP Notice:  Undefined offset: 9 in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 71
+[01-Apr-2017 18:50:59 Europe/Paris] PHP Notice:  Undefined index: equipmentId in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 71
+[01-Apr-2017 18:50:59 Europe/Paris] PHP Notice:  Undefined index: equipmentId in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 71
+[01-Apr-2017 18:51:16 Europe/Paris] PHP Notice:  Undefined index: equipmentId in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 71
+[01-Apr-2017 18:51:16 Europe/Paris] PHP Notice:  Undefined index: equipmentId in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 71
+[01-Apr-2017 18:52:32 Europe/Paris] PHP Warning:  Illegal string offset 'historyId' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 71
+[01-Apr-2017 18:52:32 Europe/Paris] PHP Notice:  Undefined index: e in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 71
+[01-Apr-2017 18:52:32 Europe/Paris] PHP Warning:  Illegal string offset 'historyId' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 71
+[01-Apr-2017 18:52:32 Europe/Paris] PHP Notice:  Undefined index: e in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 71
+[01-Apr-2017 18:52:58 Europe/Paris] PHP Warning:  Illegal string offset 'historyId' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 71
+[01-Apr-2017 18:52:58 Europe/Paris] PHP Notice:  Undefined index: e in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 71
+[01-Apr-2017 18:52:58 Europe/Paris] PHP Warning:  Illegal string offset 'historyId' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 71
+[01-Apr-2017 18:52:58 Europe/Paris] PHP Notice:  Undefined index: e in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 71
+[03-Apr-2017 20:42:10 Europe/Paris] PHP Notice:  Uninitialized string offset: 8 in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 64
+[03-Apr-2017 20:42:10 Europe/Paris] PHP Notice:  Uninitialized string offset: 7 in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 64
+[03-Apr-2017 20:43:25 Europe/Paris] PHP Notice:  Uninitialized string offset: 8 in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 64
+[03-Apr-2017 20:43:25 Europe/Paris] PHP Notice:  Uninitialized string offset: 7 in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 64
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Warning:  Illegal string offset 'product' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Warning:  Illegal string offset 'product' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Warning:  Illegal string offset 'product' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Warning:  Illegal string offset 'product' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Warning:  Illegal string offset 'product' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Warning:  Illegal string offset 'product' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Warning:  Illegal string offset 'product' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Warning:  Illegal string offset 'product' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Warning:  Illegal string offset 'product' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Warning:  Illegal string offset 'product' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Warning:  Illegal string offset 'product' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Warning:  Illegal string offset 'product' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Warning:  Illegal string offset 'product' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Warning:  Illegal string offset 'product' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:48:31 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:49:05 Europe/Paris] PHP Warning:  Illegal string offset 'product' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 20:49:05 Europe/Paris] PHP Fatal error:  Cannot use string offset as an array in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 42
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'productName' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'serial' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'repere' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'productName' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'serial' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'repere' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'productName' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'serial' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'repere' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'productName' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'serial' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'repere' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'productName' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'serial' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'repere' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'productName' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'serial' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'repere' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'productName' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'serial' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'repere' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'productName' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'serial' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'repere' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'productName' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'serial' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'repere' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Notice:  Undefined index: productName in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Notice:  Undefined index: repere in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'productName' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'serial' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'repere' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'productName' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'serial' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'repere' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'productName' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'serial' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'repere' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'productName' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'serial' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'repere' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'productName' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'serial' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'repere' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'productName' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'serial' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'repere' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'productName' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'serial' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'repere' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'productName' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'serial' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'repere' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'productName' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'serial' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Warning:  Illegal string offset 'repere' in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Notice:  Undefined index: productName in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Notice:  Undefined index: serial in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[03-Apr-2017 21:00:39 Europe/Paris] PHP Notice:  Undefined index: repere in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 87
+[27-Apr-2017 11:27:17 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 36
+[27-Apr-2017 11:27:17 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 55
+[27-Apr-2017 11:27:17 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\historique\proc\historyList.php on line 82
+[02-May-2017 21:18:49 Europe/Paris] PHP Fatal error:  Call to undefined method HistoryManager::editHistory() in E:\EasyPHP\data\localweb\clim\historique\proc\editHistory.php on line 36
+[16-May-2017 19:19:06 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\profil\user.php on line 16
+[16-May-2017 19:19:44 Europe/Paris] PHP Notice:  Array to string conversion in E:\EasyPHP\data\localweb\clim\profil\user.php on line 18
+[10-Jan-2018 10:49:19 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in E:\EasyPHP\data\localweb\clim\fluido\proc\getBilan.php on line 112

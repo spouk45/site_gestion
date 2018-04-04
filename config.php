@@ -3,7 +3,7 @@
 $root='clim';//emplacement du site sur le serveur
 $host='localhost';// adresse du site 127.0.0.1
 $dbname='mydb'; // nom de la base de données
-$username='root' //nom utilisateur de la bdd
+$username='root'; //nom utilisateur de la bdd
 $password=''; // mdp de la base
 //$config=true;
 

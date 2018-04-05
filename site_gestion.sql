@@ -17,8 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Base de données :  `clim_concept`
---
+-- Base de données :  `site_gestion
 
 -- --------------------------------------------------------
 

@@ -1,5 +1,6 @@
 # site_gestion
-Projet site de gestion pour société de type batiment spécialisé dans la climatisation
+Projet site de gestion pour société de type batiment spécialisé dans la climatisation.
+Réalisé sans framework.
 
 # création en 2016-2017
 
